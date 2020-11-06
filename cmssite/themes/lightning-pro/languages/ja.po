@@ -1,0 +1,3986 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Lightning Pro\n"
+"POT-Creation-Date: 2020-11-04 03:05+0900\n"
+"PO-Revision-Date: 2020-11-04 03:09+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.4.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+"X-Poedit-SearchPathExcluded-1: node_modules\n"
+
+#: comments.php:33 dist/lightning-pro/comments.php:33
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "&ldquo;%2$s&rdquo;へ%1$s件のコメント"
+
+#: comments.php:40 comments.php:63 dist/lightning-pro/comments.php:40
+#: dist/lightning-pro/comments.php:63
+msgid "Comment navigation"
+msgstr "コメントナビゲーション"
+
+#: comments.php:43 comments.php:66 dist/lightning-pro/comments.php:43
+#: dist/lightning-pro/comments.php:66
+msgid "Older Comments"
+msgstr "古いコメント"
+
+#: comments.php:44 comments.php:67 dist/lightning-pro/comments.php:44
+#: dist/lightning-pro/comments.php:67
+msgid "Newer Comments"
+msgstr "新しいコメント"
+
+#: comments.php:79 dist/lightning-pro/comments.php:79
+msgid "Comments are closed."
+msgstr "この投稿はコメントできません。"
+
+#: dist/lightning-pro/front-page.php:111 dist/lightning-pro/index.php:127
+#: front-page.php:111 index.php:127
+msgid "Page"
+msgstr "ページ"
+
+#: dist/lightning-pro/front-page.php:122 dist/lightning-pro/index.php:134
+#: front-page.php:122 index.php:134
+msgid "No posts."
+msgstr "投稿はありません。"
+
+#: dist/lightning-pro/functions.php:269 functions.php:269
+msgid "Sidebar(Home)"
+msgstr "サイドバー (トップページ)"
+
+#: dist/lightning-pro/functions.php:279 functions.php:279
+msgid "Sidebar(Common top)"
+msgstr "サイドバー (共通上部)"
+
+#: dist/lightning-pro/functions.php:289 functions.php:289
+msgid "Sidebar(Common bottom)"
+msgstr "サイドバー (共通下部)"
+
+#: dist/lightning-pro/functions.php:314 functions.php:314
+msgid ""
+"This widget area appears on the Posts page only. If you do not set any "
+"widgets in this area, this theme sets the following widgets \"Recent posts"
+"\", \"Category\", and \"Archive\" by default. These default widgets will be "
+"hidden, when you set any widgets. <br><br> If you installed our plugin VK "
+"All in One Expansion Unit (Free), you can use the following widgets, "
+"\"VK_Recent posts\",  \"VK_Categories\", and  \"VK_archive list\"."
+msgstr ""
+"このウィジェットエリアに何もセットされていない場合は、「最新記事リスト」「カ"
+"テゴリーリスト」「月別アーカイブリスト」が表示されます。<br>しかし、このエリ"
+"アに何かウィジェットを設定した場合には「最新記事リスト」「カテゴリーリスト」"
+"「月別アーカイブリスト」は非表示になります。<br>投稿コンテンツ（ 投稿の詳細"
+"ページ / カテゴリーアーカイブページ / 投稿の月別アーカイブページ / タグアーカ"
+"イブページ ）のサイドバーのみに何かを表示させたい場合や、投稿コンテンツのサイ"
+"ドバーに表示されている要素の順番を任意に設定したい時、非表示にしたい要素があ"
+"る場合は、このエリアに表示したいウィジェットを設定してください。<br>\n"
+"ウィジェットで設定する場合は「VK_最新記事」「VK_カテゴリー/カスタム分類」"
+"「VK_アーカイブリスト」ウィジェットで同様の表示をする事もできます。"
+
+#: dist/lightning-pro/functions.php:318 functions.php:318
+msgid ""
+"This widget area appears on the Pages page only. If you do not set any "
+"widgets in this area, this theme sets the \"Child pages list widget\" by "
+"default. This default widget will be hidden, when you set any widgets. "
+"<br><br> If you installed our plugin VK All in One Expansion Unit (Free), "
+"you can use the \"VK_ child page list\" widget for the alternative."
+msgstr ""
+"このウィジェットエリアに何もセットされていない場合は、現在表示されているペー"
+"ジの先祖階層からのページリストが表示されます。<br>しかし、このエリアに何か"
+"ウィジェットを設定した場合には非表示になります。<br>固定ページのサイドバーの"
+"みに何かを表示させたい場合は、このエリアに表示したいウィジェットを設定してく"
+"ださい。<br>ウィジェットで設定する場合は「VK_子ページのリスト」ウィジェットで"
+"同様の表示をする事もできます。"
+
+#: dist/lightning-pro/functions.php:322 functions.php:322
+msgid "This widget area appears on the Media page only."
+msgstr "このウィジェットはメディアコンテンツでのみ表示されます。"
+
+#: dist/lightning-pro/functions.php:326
+#: dist/lightning-pro/inc/woocommerce/functions-woo.php:39
+#: dist/lightning-pro/plugin-support/woocommerce/functions-woo.php:39
+#: functions.php:326 plugin-support/woocommerce/functions-woo.php:39
+#, php-format
+msgid "This widget area appears on the %s contents page only."
+msgstr "このウィジェットは%sコンテンツでのみ表示されます。"
+
+#: dist/lightning-pro/functions.php:333
+#: dist/lightning-pro/inc/woocommerce/functions-woo.php:44
+#: dist/lightning-pro/plugin-support/woocommerce/functions-woo.php:44
+#: functions.php:333 plugin-support/woocommerce/functions-woo.php:44
+#, php-format
+msgid "Sidebar(%s)"
+msgstr "サイドバー (%s)"
+
+#: dist/lightning-pro/functions.php:350 functions.php:350
+msgid "Home content top"
+msgstr "トップページコンテンツエリア上部"
+
+#: dist/lightning-pro/functions.php:363 functions.php:363
+msgid "Widget area of upper footer"
+msgstr "フッター上部"
+
+#: dist/lightning-pro/functions.php:380 functions.php:380
+msgid "Footer widget area"
+msgstr "フッターウィジェットエリア "
+
+#: dist/lightning-pro/functions.php:407 functions.php:407
+#, php-format
+msgid "LP widget \"%s\""
+msgstr "LP ウィジェット \"%s\""
+
+#: dist/lightning-pro/functions.php:658 functions.php:658
+msgid "License Key has no registerd."
+msgstr "ライセンスキーが登録されていません。"
+
+#: dist/lightning-pro/functions.php:659 functions.php:659
+msgid ""
+"You need register License Key at Themes > Customizer > Lightning License Key."
+msgstr ""
+"外観 > カスタマイズ > Lightning ライセンスキーからライセンスキーを入力して保"
+"存してください。"
+
+#: dist/lightning-pro/functions.php:670 functions.php:670
+msgid "Your Lightning Pro license key is expired."
+msgstr "Lightning Pro のライセンスキーの有効期限が切れています。"
+
+#: dist/lightning-pro/functions.php:671 dist/lightning-pro/functions.php:680
+#: functions.php:671 functions.php:680
+msgid ""
+"If you need update. get <a href=\"https://vws.vektor-inc.co.jp/product/"
+"lightning-pro-update-license\" target=\"_blank\">Update License</a>."
+msgstr ""
+"アップデートをご希望の際は<a href=\"https://vws.vektor-inc.co.jp/product/"
+"lightning-pro-update-license\" target=\"_blank\">更新ライセンス</a>をご購入く"
+"ださい。"
+
+#: dist/lightning-pro/functions.php:679 functions.php:679
+msgid "Can't update Theme becouse Your Lightning Pro license key is expired."
+msgstr "ライセンスの有効期限が切れているため、更新ができません。"
+
+#: dist/lightning-pro/functions.php:698 functions.php:698
+msgid "PR Content Widget"
+msgstr "PR コンテンツ ウィジェット"
+
+#: dist/lightning-pro/functions.php:699 functions.php:699
+msgid ""
+"You can use the same function by Outer Block and PR Content Block in Plugin "
+"VK Blocks."
+msgstr ""
+"プラグイン VK Blocks の Outer ブロックと PR Content ブロックで同様の事ができ"
+"ます。"
+
+#: dist/lightning-pro/functions.php:703
+#: dist/lightning-pro/inc/media-posts/package/class-media-posts-widget.php:13
+#: functions.php:703 inc/media-posts/package/class-media-posts-widget.php:13
+msgid "Media Posts"
+msgstr "Media Posts"
+
+#: dist/lightning-pro/functions.php:704 functions.php:704
+msgid ""
+"You can use the same function by Archive Page Setting at customize screen "
+"and Media Posts BS4 Widget."
+msgstr ""
+"カスタマイズ画面のアーカイブページ設定とMedia Posts BS4ウィジェットで同様の事"
+"が可能です。"
+
+#: dist/lightning-pro/header.php:15 header.php:15
+msgid "Skip to the content"
+msgstr "コンテンツに移動"
+
+#: dist/lightning-pro/header.php:16 header.php:16
+msgid "Skip to the Navigation"
+msgstr "ナビゲーションに移動"
+
+#: dist/lightning-pro/inc/base-controller/admin-customizer.php:20
+#: dist/lightning-pro/inc/base-controller/admin-post-meta.php:16
+#: inc/base-controller/admin-customizer.php:20
+#: inc/base-controller/admin-post-meta.php:16
+msgid "Section base setting"
+msgstr "セクションベース設定"
+
+#: dist/lightning-pro/inc/base-controller/admin-customizer.php:24
+#: inc/base-controller/admin-customizer.php:24
+msgid "Bootstrap4 skin only"
+msgstr "Bootstrap4 のスキンのみ対応"
+
+#: dist/lightning-pro/inc/base-controller/admin-customizer.php:31
+#: dist/lightning-pro/inc/base-controller/admin-post-meta.php:28
+#: inc/base-controller/admin-customizer.php:31
+#: inc/base-controller/admin-post-meta.php:28
+msgid "Design skin default"
+msgstr "デザインスキン標準"
+
+#: dist/lightning-pro/inc/base-controller/admin-customizer.php:32
+#: dist/lightning-pro/inc/base-controller/admin-post-meta.php:29
+#: inc/base-controller/admin-customizer.php:32
+#: inc/base-controller/admin-post-meta.php:29
+msgid "No section base"
+msgstr "セクションベース無し"
+
+#: dist/lightning-pro/inc/base-controller/admin-customizer.php:33
+#: dist/lightning-pro/inc/base-controller/admin-post-meta.php:30
+#: inc/base-controller/admin-customizer.php:33
+#: inc/base-controller/admin-post-meta.php:30
+msgid "Use section base"
+msgstr "セクションベースあり"
+
+#: dist/lightning-pro/inc/class-design-manager.php:35
+#: inc/class-design-manager.php:35
+msgid "Origin ( Not recommended )"
+msgstr "Origin ( 非推奨 )"
+
+#: dist/lightning-pro/inc/class-design-manager.php:46
+#: inc/class-design-manager.php:46
+msgid "Origin II ( Bootstrap4 )"
+msgstr "Origin II ( Bootstrap4 )"
+
+#: dist/lightning-pro/inc/class-design-manager.php:278
+#: inc/class-design-manager.php:278
+msgid "Design skin"
+msgstr "デザインスキン"
+
+#: dist/lightning-pro/inc/class-design-manager.php:281
+#: inc/class-design-manager.php:281
+msgid "If you change the skin, please save once and reload the page."
+msgstr ""
+"デザインスキンを変更した場合は一度保存してページを再読み込みしてください。"
+
+#: dist/lightning-pro/inc/class-design-manager.php:282
+#: inc/class-design-manager.php:282
+msgid ""
+"If you reload after the saving, it will be displayed skin-specific "
+"configuration items."
+msgstr "保存した後で再読み込みをすると、スキン固有の設定項目が表示されます。"
+
+#: dist/lightning-pro/inc/class-design-manager.php:283
+#: inc/class-design-manager.php:283
+msgid ""
+"*There is also a case where there is no skin-specific installation item."
+msgstr "※スキンによっては固有の設置項目がない場合もあります。"
+
+#: dist/lightning-pro/inc/copyright-customizer/package/class-copyright-customizer.php:51
+#: dist/lightning-pro/inc/copyright-customizer/package/class-copyright-customizer.php:68
+#: inc/copyright-customizer/package/class-copyright-customizer.php:51
+#: inc/copyright-customizer/package/class-copyright-customizer.php:68
+msgid "Copyright Setting"
+msgstr "コピーライト設定"
+
+#: dist/lightning-pro/inc/copyright-customizer/package/class-copyright-customizer.php:73
+#: inc/copyright-customizer/package/class-copyright-customizer.php:73
+msgid "Please fill box to footer html text you want."
+msgstr "代わりに表示したいフッターテキストを入力してください（HTML有効）"
+
+#: dist/lightning-pro/inc/copyright-customizer/package/class-copyright-customizer.php:75
+#: inc/copyright-customizer/package/class-copyright-customizer.php:75
+msgid "If you fill noting, Footer will display noting."
+msgstr "何も入力しない場合は何も表示されません。"
+
+#: dist/lightning-pro/inc/custom-field-builder/package/custom-field-builder.php:58
+#: dist/lightning-pro/inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2180
+#: inc/custom-field-builder/package/custom-field-builder.php:58
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2180
+msgid "Required"
+msgstr "必須"
+
+#: dist/lightning-pro/inc/custom-field-builder/package/custom-field-builder.php:171
+#: inc/custom-field-builder/package/custom-field-builder.php:171
+msgid "Choose Image"
+msgstr "画像を選択"
+
+#: dist/lightning-pro/inc/custom-field-builder/package/custom-field-builder.php:175
+#: inc/custom-field-builder/package/custom-field-builder.php:175
+msgid "Delete Image"
+msgstr "画像を削除"
+
+#: dist/lightning-pro/inc/custom-field-builder/package/custom-field-builder.php:179
+#: inc/custom-field-builder/package/custom-field-builder.php:179
+msgid "Select file"
+msgstr "ファイルを選択"
+
+#: dist/lightning-pro/inc/custom-field-builder/package/custom-field-builder.php:181
+#: inc/custom-field-builder/package/custom-field-builder.php:181
+msgid "View file"
+msgstr "ファイルを見る"
+
+#: dist/lightning-pro/inc/customize/customize-design.php:11
+#: inc/customize/customize-design.php:11
+msgid "Design settings"
+msgstr "デザイン設定"
+
+#: dist/lightning-pro/inc/customize/customize-design.php:34
+#: inc/customize/customize-design.php:34
+msgid "Header logo image"
+msgstr "ヘッダーロゴ画像"
+
+#: dist/lightning-pro/inc/customize/customize-design.php:38
+#: dist/lightning-pro/inc/header-trans/class-lightning_header_trans.php:371
+#: inc/customize/customize-design.php:38
+#: inc/header-trans/class-lightning_header_trans.php:371
+msgid "Recommended image size : 280*60px"
+msgstr "推奨画像サイズ: 280×60px"
+
+#: dist/lightning-pro/inc/customize/customize-design.php:69
+#: inc/customize/customize-design.php:69
+msgid "Color Setting"
+msgstr "カラー設定"
+
+#: dist/lightning-pro/inc/customize/customize-design.php:72
+#: inc/customize/customize-design.php:72
+msgid "Key Color"
+msgstr "キーカラー"
+
+#: dist/lightning-pro/inc/customize/customize-design.php:94
+#: inc/customize/customize-design.php:94
+msgid "Key color"
+msgstr "キーカラー"
+
+#: dist/lightning-pro/inc/customize/customize-design.php:116
+#: inc/customize/customize-design.php:116
+msgid "Key color (dark)"
+msgstr "キーカラー (暗)"
+
+#: dist/lightning-pro/inc/customize/customize-design.php:139
+#: inc/customize/customize-design.php:139
+msgid "Link text color"
+msgstr "リンク文字色"
+
+#: dist/lightning-pro/inc/customize/customize-design.php:161
+#: inc/customize/customize-design.php:161
+msgid "Link text color ( default )"
+msgstr "リンク文字色（標準）"
+
+#: dist/lightning-pro/inc/customize/customize-design.php:184
+#: inc/customize/customize-design.php:184
+msgid "Link text color ( hover )"
+msgstr "リンク文字色（hover）"
+
+#: dist/lightning-pro/inc/customize/customize-design.php:234
+#: inc/customize/customize-design.php:234
+msgid "Layout Setting"
+msgstr "レイアウト設定"
+
+#: dist/lightning-pro/inc/customize/customize-design.php:238
+#: inc/customize/customize-design.php:238
+msgid "This setting field was moved to the \"Layout Setting\" panel."
+msgstr "この設定項目は「レイアウト設定」パネルに移動しました。"
+
+#: dist/lightning-pro/inc/customize/customize-design.php:258
+#: inc/customize/customize-design.php:258
+msgid "Other Setting"
+msgstr "その他の設定"
+
+#: dist/lightning-pro/inc/customize/customize-design.php:289
+#: inc/customize/customize-design.php:289
+msgid "Don't show default content(Post list or Front page) at home page"
+msgstr "トップページでデフォルトの投稿リストや固定ページを表示しない"
+
+#: dist/lightning-pro/inc/customize/customize-design.php:310
+#: inc/customize/customize-design.php:310
+msgid "Hide modified date on single pages."
+msgstr "投稿詳細ページで最終更新日を表示しない"
+
+#: dist/lightning-pro/inc/customize/customize-design.php:331
+#: inc/customize/customize-design.php:331
+msgid "Don't display post author on a single page"
+msgstr "投稿詳細ページで投稿者名を表示しない"
+
+#: dist/lightning-pro/inc/customize/customize-design.php:352
+#: inc/customize/customize-design.php:352
+msgid "Don't display grandchild page of deactive page at page sidebar."
+msgstr "固定ページのサイドバーに非アクティブな孫ページを表示しない"
+
+#: dist/lightning-pro/inc/customize/customize-functions.php:9
+#: inc/customize/customize-functions.php:9
+msgid "Function Settings"
+msgstr "機能設定"
+
+#: dist/lightning-pro/inc/customize/customize-layout.php:10
+#: dist/lightning-pro/inc/layout-controller/admin-customize-layout.php:12
+#: inc/customize/customize-layout.php:10
+#: inc/layout-controller/admin-customize-layout.php:12
+msgid "Layout settings"
+msgstr "レイアウト設定"
+
+#: dist/lightning-pro/inc/customize/customize-layout.php:26
+#: dist/lightning-pro/inc/layout-controller/admin-customize-layout.php:29
+#: inc/customize/customize-layout.php:26
+#: inc/layout-controller/admin-customize-layout.php:29
+msgid "Column Setting"
+msgstr "カラム設定"
+
+#: dist/lightning-pro/inc/customize/customize-layout.php:26
+#: dist/lightning-pro/inc/layout-controller/admin-customize-layout.php:29
+#: inc/customize/customize-layout.php:26
+#: inc/layout-controller/admin-customize-layout.php:29
+msgid "PC mode"
+msgstr " PC閲覧時"
+
+#: dist/lightning-pro/inc/customize/customize-layout.php:38
+#: dist/lightning-pro/inc/layout-controller/admin-customize-layout.php:41
+#: inc/customize/customize-layout.php:38
+#: inc/layout-controller/admin-customize-layout.php:41
+msgid "Home page"
+msgstr "トップページ"
+
+#: dist/lightning-pro/inc/customize/customize-layout.php:42
+#: dist/lightning-pro/inc/layout-controller/admin-customize-layout.php:45
+#: inc/customize/customize-layout.php:42
+#: inc/layout-controller/admin-customize-layout.php:45
+msgid "Search"
+msgstr "検索結果ページ"
+
+#: dist/lightning-pro/inc/customize/customize-layout.php:45
+#: dist/lightning-pro/inc/layout-controller/admin-customize-layout.php:48
+#: inc/customize/customize-layout.php:45
+#: inc/layout-controller/admin-customize-layout.php:48
+msgid "404 page"
+msgstr "404ページ"
+
+#: dist/lightning-pro/inc/customize/customize-layout.php:48
+#: inc/customize/customize-layout.php:48
+msgid "Archive page (Post and custom post type)"
+msgstr "アーカイブページ（投稿＆カスタム投稿タイプ）"
+
+#: dist/lightning-pro/inc/customize/customize-layout.php:51
+#: inc/customize/customize-layout.php:51
+msgid "Single page (Post and custom post type)"
+msgstr "投稿ページ（投稿＆カスタム投稿タイプ）"
+
+#: dist/lightning-pro/inc/customize/customize-layout.php:57
+#: dist/lightning-pro/inc/layout-controller/admin-customize-layout.php:80
+#: dist/lightning-pro/inc/vk-font-selector/package/class-vk-font-selector.php:61
+#: inc/customize/customize-layout.php:57
+#: inc/layout-controller/admin-customize-layout.php:80
+#: inc/vk-font-selector/package/class-vk-font-selector.php:61
+msgid "Unspecified"
+msgstr "指定なし"
+
+#: dist/lightning-pro/inc/customize/customize-layout.php:58
+#: inc/customize/customize-layout.php:58
+msgid "Two colmun"
+msgstr "２カラム"
+
+#: dist/lightning-pro/inc/customize/customize-layout.php:59
+#: inc/customize/customize-layout.php:59
+msgid "One column"
+msgstr "１カラム"
+
+#: dist/lightning-pro/inc/customize/customize-layout.php:93
+#: dist/lightning-pro/inc/layout-controller/admin-customize-layout.php:130
+#: inc/customize/customize-layout.php:93
+#: inc/layout-controller/admin-customize-layout.php:130
+msgid "Sidebar Setting"
+msgstr "サイドバーの設定"
+
+#: dist/lightning-pro/inc/customize/customize-layout.php:114
+#: dist/lightning-pro/inc/layout-controller/admin-customize-layout.php:153
+#: inc/customize/customize-layout.php:114
+#: inc/layout-controller/admin-customize-layout.php:153
+msgid "Sidebar position ( PC mode )"
+msgstr "サイドバーの位置 (PC閲覧時)"
+
+#: dist/lightning-pro/inc/customize/customize-layout.php:119
+#: dist/lightning-pro/inc/customize/customize-top-slide.php:420
+#: dist/lightning-pro/inc/layout-controller/admin-customize-layout.php:158
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-media-posts-admin.php:498
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-media-posts-widget.php:395
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-vk-media-posts-bs4-admin.php:495
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-vk-media-posts-bs4-widget.php:478
+#: dist/lightning-pro/inc/vk-page-header/package/class-vk-page-header.php:457
+#: inc/customize/customize-layout.php:119
+#: inc/customize/customize-top-slide.php:420
+#: inc/layout-controller/admin-customize-layout.php:158
+#: inc/media-posts-bs4/package/class-vk-media-posts-bs4-admin.php:495
+#: inc/media-posts-bs4/package/class-vk-media-posts-bs4-widget.php:478
+#: inc/vk-page-header/package/class-vk-page-header.php:457
+msgid "Right"
+msgstr "右"
+
+#: dist/lightning-pro/inc/customize/customize-layout.php:120
+#: dist/lightning-pro/inc/customize/customize-top-slide.php:418
+#: dist/lightning-pro/inc/layout-controller/admin-customize-layout.php:159
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-media-posts-admin.php:496
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-media-posts-widget.php:389
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-vk-media-posts-bs4-admin.php:493
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-vk-media-posts-bs4-widget.php:472
+#: dist/lightning-pro/inc/vk-page-header/package/class-vk-page-header.php:455
+#: inc/customize/customize-layout.php:120
+#: inc/customize/customize-top-slide.php:418
+#: inc/layout-controller/admin-customize-layout.php:159
+#: inc/media-posts-bs4/package/class-vk-media-posts-bs4-admin.php:493
+#: inc/media-posts-bs4/package/class-vk-media-posts-bs4-widget.php:472
+#: inc/vk-page-header/package/class-vk-page-header.php:455
+msgid "Left"
+msgstr "左"
+
+#: dist/lightning-pro/inc/customize/customize-layout.php:137
+#: dist/lightning-pro/inc/layout-controller/admin-customize-layout.php:179
+#: inc/customize/customize-layout.php:137
+#: inc/layout-controller/admin-customize-layout.php:179
+msgid "Sidebar fix"
+msgstr "サイドバー 固定"
+
+#: dist/lightning-pro/inc/customize/customize-layout.php:152
+#: dist/lightning-pro/inc/layout-controller/admin-customize-layout.php:203
+#: inc/customize/customize-layout.php:152
+#: inc/layout-controller/admin-customize-layout.php:203
+msgid "Don't fix the sidebar"
+msgstr "サイドバーを固定しない"
+
+#: dist/lightning-pro/inc/customize/customize-layout.php:176
+#: inc/customize/customize-layout.php:176
+msgid "Sidebar display"
+msgstr "サイドバーの表示"
+
+#: dist/lightning-pro/inc/customize/customize-layout.php:176
+#: inc/customize/customize-layout.php:176
+msgid "One-column mode"
+msgstr "1カラム モード"
+
+#: dist/lightning-pro/inc/customize/customize-layout.php:183
+#: inc/customize/customize-layout.php:183
+msgid "Display to under the Main Section"
+msgstr "メインセクションの下に表示する"
+
+#: dist/lightning-pro/inc/customize/customize-layout.php:184
+#: inc/customize/customize-layout.php:184
+msgid "Do not display"
+msgstr "表示しない"
+
+#: dist/lightning-pro/inc/customize/customize-top-slide.php:12
+#: inc/customize/customize-top-slide.php:12
+msgid "Home page slide show"
+msgstr "トップページスライドショー"
+
+#: dist/lightning-pro/inc/customize/customize-top-slide.php:32
+#: inc/customize/customize-top-slide.php:32
+msgid "Hide slide"
+msgstr "スライドを非表示にする"
+
+#: dist/lightning-pro/inc/customize/customize-top-slide.php:55
+#: inc/customize/customize-top-slide.php:55
+msgid "Slide effect"
+msgstr "スライド効果"
+
+#: dist/lightning-pro/inc/customize/customize-top-slide.php:86
+#: inc/customize/customize-top-slide.php:86
+msgid "Slide interval time"
+msgstr "スライド切り替え間隔"
+
+#: dist/lightning-pro/inc/customize/customize-top-slide.php:92
+#: inc/customize/customize-top-slide.php:92
+msgid "millisecond"
+msgstr "ミリ秒"
+
+#: dist/lightning-pro/inc/customize/customize-top-slide.php:128
+#: inc/customize/customize-top-slide.php:128
+msgid "Slide"
+msgstr "スライド"
+
+#: dist/lightning-pro/inc/customize/customize-top-slide.php:163
+#: inc/customize/customize-top-slide.php:163
+msgid "Slide image"
+msgstr "スライド画像"
+
+#: dist/lightning-pro/inc/customize/customize-top-slide.php:167
+#: inc/customize/customize-top-slide.php:167
+msgid "Recommended image size : 1900*600px"
+msgstr "推奨画像サイズ: 1900×600px"
+
+#: dist/lightning-pro/inc/customize/customize-top-slide.php:189
+#: inc/customize/customize-top-slide.php:189
+msgid "Slide image for mobile"
+msgstr "モバイル用スライド画像"
+
+#: dist/lightning-pro/inc/customize/customize-top-slide.php:189
+#: dist/lightning-pro/inc/customize/customize-top-slide.php:241
+#: dist/lightning-pro/inc/customize/customize-top-slide.php:337
+#: dist/lightning-pro/inc/customize/customize-top-slide.php:361
+#: dist/lightning-pro/inc/customize/customize-top-slide.php:387
+#: dist/lightning-pro/inc/customize/customize-top-slide.php:412
+#: dist/lightning-pro/inc/customize/customize-top-slide.php:441
+#: dist/lightning-pro/inc/customize/customize-top-slide.php:463
+#: dist/lightning-pro/inc/customize/customize-top-slide.php:487
+#: inc/customize/customize-top-slide.php:189
+#: inc/customize/customize-top-slide.php:241
+#: inc/customize/customize-top-slide.php:337
+#: inc/customize/customize-top-slide.php:361
+#: inc/customize/customize-top-slide.php:387
+#: inc/customize/customize-top-slide.php:412
+#: inc/customize/customize-top-slide.php:441
+#: inc/customize/customize-top-slide.php:463
+#: inc/customize/customize-top-slide.php:487
+msgid "optional"
+msgstr "任意"
+
+#: dist/lightning-pro/inc/customize/customize-top-slide.php:215
+#: inc/customize/customize-top-slide.php:215
+msgid "Slide image alt"
+msgstr "スライド画像の代替テキスト"
+
+#: dist/lightning-pro/inc/customize/customize-top-slide.php:220
+#: inc/customize/customize-top-slide.php:220
+msgid "This title text is print to alt tag."
+msgstr "このテキストは alt に反映されます。"
+
+#: dist/lightning-pro/inc/customize/customize-top-slide.php:241
+#: inc/customize/customize-top-slide.php:241
+msgid "Slide cover color"
+msgstr "スライドに被せる色"
+
+#: dist/lightning-pro/inc/customize/customize-top-slide.php:265
+#: inc/customize/customize-top-slide.php:265
+msgid "Slide cover opacity"
+msgstr "スライドに被せる色の濃さ"
+
+#: dist/lightning-pro/inc/customize/customize-top-slide.php:270
+#: inc/customize/customize-top-slide.php:270
+msgid "Please input 0 - 100 number"
+msgstr "0-100の数値で入力してください"
+
+#: dist/lightning-pro/inc/customize/customize-top-slide.php:291
+#: inc/customize/customize-top-slide.php:291
+msgid "Slide image link url"
+msgstr "スライド画像リンク先 URL"
+
+#: dist/lightning-pro/inc/customize/customize-top-slide.php:314
+#: inc/customize/customize-top-slide.php:314
+msgid "Open in new window."
+msgstr "リンク先を別ウィンドウで開く"
+
+#: dist/lightning-pro/inc/customize/customize-top-slide.php:337
+#: inc/customize/customize-top-slide.php:337
+msgid "Slide title"
+msgstr "スライドタイトル"
+
+#: dist/lightning-pro/inc/customize/customize-top-slide.php:361
+#: inc/customize/customize-top-slide.php:361
+msgid "Slide text"
+msgstr "スライドテキスト"
+
+#: dist/lightning-pro/inc/customize/customize-top-slide.php:387
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-media-posts-admin.php:488
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-media-posts-widget.php:378
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-vk-media-posts-bs4-admin.php:485
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-vk-media-posts-bs4-widget.php:461
+#: inc/customize/customize-top-slide.php:387
+#: inc/media-posts-bs4/package/class-vk-media-posts-bs4-admin.php:485
+#: inc/media-posts-bs4/package/class-vk-media-posts-bs4-widget.php:461
+msgid "Button text"
+msgstr "ボタンの文字"
+
+#: dist/lightning-pro/inc/customize/customize-top-slide.php:392
+#: inc/customize/customize-top-slide.php:392
+msgid ""
+"If you do not fill in the link url and button text that, button is do not "
+"display."
+msgstr ""
+"リンクの URL とボタンのテキストを入力しないと、ボタンは表示されません。"
+
+#: dist/lightning-pro/inc/customize/customize-top-slide.php:412
+#: inc/customize/customize-top-slide.php:412
+msgid "Position to display text"
+msgstr "位置"
+
+#: dist/lightning-pro/inc/customize/customize-top-slide.php:419
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-media-posts-admin.php:497
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-media-posts-widget.php:392
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-vk-media-posts-bs4-admin.php:494
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-vk-media-posts-bs4-widget.php:475
+#: dist/lightning-pro/inc/vk-page-header/package/class-vk-page-header.php:456
+#: inc/customize/customize-top-slide.php:419
+#: inc/media-posts-bs4/package/class-vk-media-posts-bs4-admin.php:494
+#: inc/media-posts-bs4/package/class-vk-media-posts-bs4-widget.php:475
+#: inc/vk-page-header/package/class-vk-page-header.php:456
+msgid "Center"
+msgstr "中央"
+
+#: dist/lightning-pro/inc/customize/customize-top-slide.php:441
+#: inc/customize/customize-top-slide.php:441
+msgid "Slide text color"
+msgstr "スライド上の文字色"
+
+#: dist/lightning-pro/inc/customize/customize-top-slide.php:463
+#: inc/customize/customize-top-slide.php:463
+msgid "Use text shadow"
+msgstr "文字に影をつける"
+
+#: dist/lightning-pro/inc/customize/customize-top-slide.php:487
+#: dist/lightning-pro/inc/vk-page-header/package/class-vk-page-header.php:430
+#: inc/customize/customize-top-slide.php:487
+#: inc/vk-page-header/package/class-vk-page-header.php:430
+msgid "Text shadow color"
+msgstr "文字の影の色"
+
+#: dist/lightning-pro/inc/enqueue-point-controller/enqueue-point-controller.php:19
+#: inc/enqueue-point-controller/enqueue-point-controller.php:19
+msgid "CSS and JavaScript load point "
+msgstr "CSS と JavaScript の読み込み位置"
+
+#: dist/lightning-pro/inc/enqueue-point-controller/enqueue-point-controller.php:23
+#: inc/enqueue-point-controller/enqueue-point-controller.php:23
+msgid "Move part of CSS and JS to the footer to improve display speed."
+msgstr "CSS and JS の一部をフッターに移動して表示速度の改善を図ります。"
+
+#: dist/lightning-pro/inc/enqueue-point-controller/enqueue-point-controller.php:40
+#: inc/enqueue-point-controller/enqueue-point-controller.php:40
+msgid "Move to footer"
+msgstr "フッターに移動する"
+
+#: dist/lightning-pro/inc/enqueue-point-controller/enqueue-point-controller.php:44
+#: inc/enqueue-point-controller/enqueue-point-controller.php:44
+msgid ""
+"If you enabled this checkbox that page loading speed become little faster."
+msgstr ""
+"このチェックボックスを有効にするとページの読み込み速度が若干向上します。"
+
+#: dist/lightning-pro/inc/font-awesome/package/class-vk-font-awesome-versions.php:39
+#: dist/lightning-pro/inc/font-awesome/package/class-vk-font-awesome-versions.php:54
+#: dist/lightning-pro/inc/media-posts/package/class-media-posts-widget.php:13
+#: dist/lightning-pro/inc/media-posts/package/class-media-posts.php:158
+#: dist/lightning-pro/inc/media-posts/package/class-media-posts.php:169
+#: dist/lightning-pro/inc/media-posts/package/class-media-posts.php:180
+#: inc/font-awesome/package/class-vk-font-awesome-versions.php:39
+#: inc/font-awesome/package/class-vk-font-awesome-versions.php:54
+#: inc/media-posts/package/class-media-posts-widget.php:13
+#: inc/media-posts/package/class-media-posts.php:158
+#: inc/media-posts/package/class-media-posts.php:169
+#: inc/media-posts/package/class-media-posts.php:180
+msgid "Not recommended"
+msgstr "非推奨"
+
+#: dist/lightning-pro/inc/font-awesome/package/class-vk-font-awesome-versions.php:86
+#: dist/lightning-pro/inc/font-awesome/package/class-vk-font-awesome-versions.php:88
+#: dist/lightning-pro/inc/header-top/package/class-lightning-header-top.php:138
+#: inc/font-awesome/package/class-vk-font-awesome-versions.php:86
+#: inc/font-awesome/package/class-vk-font-awesome-versions.php:88
+#: inc/header-top/package/class-lightning-header-top.php:138
+msgid "Ex ) "
+msgstr "例) "
+
+#: dist/lightning-pro/inc/font-awesome/package/class-vk-font-awesome-versions.php:194
+#: inc/font-awesome/package/class-vk-font-awesome-versions.php:194
+msgid "Font Awesome"
+msgstr "Font Awesome"
+
+#: dist/lightning-pro/inc/font-awesome/package/class-vk-font-awesome-versions.php:217
+#: inc/font-awesome/package/class-vk-font-awesome-versions.php:217
+msgid "Font Awesome Version"
+msgstr "Font Awesome バージョン"
+
+#: dist/lightning-pro/inc/font-awesome/package/class-vk-font-awesome-versions.php:220
+#: inc/font-awesome/package/class-vk-font-awesome-versions.php:220
+msgid "4.7 will be abolished in the near future."
+msgstr "4.7は将来的に廃止されます。"
+
+#: dist/lightning-pro/inc/front-page-pr.php:13
+#: dist/lightning-pro/inc/package-manager.php:36 inc/front-page-pr.php:13
+#: inc/package-manager.php:36
+msgid "Front Page PR Block"
+msgstr "トップページ PR Block"
+
+#: dist/lightning-pro/inc/front-page-pr.php:31 inc/front-page-pr.php:31
+msgid "Display Front Page PR Block"
+msgstr "PR Block を表示する"
+
+#: dist/lightning-pro/inc/front-page-pr.php:36 inc/front-page-pr.php:36
+msgid ""
+"* If you want to use the more advanced features and set a PR Block anywhere, "
+"please Install the WordPress official directory registration plug-in \"VK "
+"All in One Expansion Unit (Free)\" and use the \"VK PR Blocks widgets\". "
+msgstr ""
+"*PR Block を好きな場所に設定したり、より高度な機能を使いたい場合は、"
+"WordPress 公式ディレクトリ登録プラグイン「VK All in One Expansion Unit (無"
+"料)」をインストール・有効化して、ウィジェット「VK PR Blocks」をご利用くださ"
+"い。 "
+
+#: dist/lightning-pro/inc/front-page-pr.php:95 inc/front-page-pr.php:95
+msgid "Icon "
+msgstr "アイコン "
+
+#: dist/lightning-pro/inc/front-page-pr.php:108 inc/front-page-pr.php:108
+msgid "PR Title"
+msgstr "タイトル"
+
+#: dist/lightning-pro/inc/front-page-pr.php:119 inc/front-page-pr.php:119
+msgid "PR Text"
+msgstr "サブテキスト"
+
+#: dist/lightning-pro/inc/front-page-pr.php:130 inc/front-page-pr.php:130
+msgid "PR Link URL"
+msgstr "リンク URL"
+
+#: dist/lightning-pro/inc/front-page-pr.php:169 inc/front-page-pr.php:169
+msgid "For all purposes"
+msgstr "シンプル & 高汎用"
+
+#: dist/lightning-pro/inc/front-page-pr.php:170 inc/front-page-pr.php:170
+msgid "Powerful features"
+msgstr "豊富で強力な機能"
+
+#: dist/lightning-pro/inc/front-page-pr.php:171 inc/front-page-pr.php:171
+msgid "Surprisingly easy"
+msgstr "驚くほど簡単"
+
+#: dist/lightning-pro/inc/front-page-pr.php:174 inc/front-page-pr.php:174
+msgid ""
+"Lightning is a simple and customize easy theme. It corresponds by the "
+"outstanding versatility to the all-round also in business sites and blogs."
+msgstr ""
+"ライトニングはシンプルでカスタマイズしやすい WordPress テーマです。抜群の拡張"
+"性でビジネスサイトにもブログにもオールラウンドに対応します。"
+
+#: dist/lightning-pro/inc/front-page-pr.php:175 inc/front-page-pr.php:175
+msgid ""
+"By using the plug-in \"VK All in One Expansion Unit (free)\", you can use "
+"the various functions and rich widgets."
+msgstr ""
+"同時開発されたプラグイン「VK All in One Expansion Unit (無料)」を使用する事に"
+"より、様々な機能や豊富なウィジェットを利用する事ができます。"
+
+#: dist/lightning-pro/inc/front-page-pr.php:176 inc/front-page-pr.php:176
+msgid ""
+"Lightning is includes to a variety of ideas for making it easier to business "
+"site. Please experience the ease of use of the Lightning."
+msgstr ""
+"Lightning にはビジネスサイトを簡単に作るための様々な工夫がしてあります。"
+"Lightning の使い易さを是非体験してください。"
+
+#: dist/lightning-pro/inc/headding-design/headding-design-config.php:47
+#: dist/lightning-pro/inc/headding-design/headding-design.php:21
+#: inc/headding-design/headding-design-config.php:47
+msgid "H2 and main section title"
+msgstr "H2 と メインセクション見出し"
+
+#: dist/lightning-pro/inc/headding-design/headding-design-config.php:56
+#: dist/lightning-pro/inc/headding-design/headding-design.php:30
+#: inc/headding-design/headding-design-config.php:56
+msgid "Sub section title"
+msgstr "サブセクション見出し"
+
+#: dist/lightning-pro/inc/headding-design/headding-design-config.php:63
+#: dist/lightning-pro/inc/headding-design/headding-design.php:37
+#: inc/headding-design/headding-design-config.php:63
+msgid "Footer section title"
+msgstr "フッターセクション見出し"
+
+#: dist/lightning-pro/inc/headding-design/headding-design-config.php:69
+#: dist/lightning-pro/inc/headding-design/headding-design.php:43
+#: dist/lightning-pro/inc/headding-design/package/class-vk-headding-design.php:650
+#: inc/headding-design/headding-design-config.php:69
+#: inc/headding-design/package/class-vk-headding-design.php:650
+msgid "H3"
+msgstr "H3"
+
+#: dist/lightning-pro/inc/headding-design/headding-design-config.php:75
+#: dist/lightning-pro/inc/headding-design/headding-design.php:49
+#: dist/lightning-pro/inc/headding-design/package/class-vk-headding-design.php:656
+#: inc/headding-design/headding-design-config.php:75
+#: inc/headding-design/package/class-vk-headding-design.php:656
+msgid "H4"
+msgstr "H4"
+
+#: dist/lightning-pro/inc/headding-design/headding-design-config.php:81
+#: dist/lightning-pro/inc/headding-design/headding-design.php:55
+#: dist/lightning-pro/inc/headding-design/package/class-vk-headding-design.php:662
+#: inc/headding-design/headding-design-config.php:81
+#: inc/headding-design/package/class-vk-headding-design.php:662
+msgid "H5"
+msgstr "H5"
+
+#: dist/lightning-pro/inc/headding-design/headding-design-config.php:87
+#: dist/lightning-pro/inc/headding-design/headding-design.php:61
+#: dist/lightning-pro/inc/headding-design/package/class-vk-headding-design.php:668
+#: inc/headding-design/headding-design-config.php:87
+#: inc/headding-design/package/class-vk-headding-design.php:668
+msgid "H6"
+msgstr "H6"
+
+#: dist/lightning-pro/inc/headding-design/headding-design.php:78
+#: dist/lightning-pro/inc/headding-design/package/class-vk-headding-design.php:56
+#: inc/headding-design/package/class-vk-headding-design.php:56
+msgid "Plain"
+msgstr "プレーン"
+
+#: dist/lightning-pro/inc/headding-design/headding-design.php:102
+#: dist/lightning-pro/inc/headding-design/package/class-vk-headding-design.php:71
+#: inc/headding-design/package/class-vk-headding-design.php:71
+msgid "Speech balloon fill"
+msgstr "吹き出し塗り"
+
+#: dist/lightning-pro/inc/headding-design/headding-design.php:139
+#: dist/lightning-pro/inc/headding-design/package/class-vk-headding-design.php:99
+#: inc/headding-design/package/class-vk-headding-design.php:99
+msgid "Background fill"
+msgstr "背景塗り"
+
+#: dist/lightning-pro/inc/headding-design/headding-design.php:163
+#: dist/lightning-pro/inc/headding-design/package/class-vk-headding-design.php:112
+#: inc/headding-design/package/class-vk-headding-design.php:112
+msgid "Background fill stitch"
+msgstr "背景塗り スティッチ"
+
+#: dist/lightning-pro/inc/headding-design/headding-design.php:188
+#: dist/lightning-pro/inc/headding-design/package/class-vk-headding-design.php:127
+#: inc/headding-design/package/class-vk-headding-design.php:127
+msgid "Background fill lightgray"
+msgstr "背景塗り 薄い灰色"
+
+#: dist/lightning-pro/inc/headding-design/headding-design.php:214
+#: dist/lightning-pro/inc/headding-design/package/class-vk-headding-design.php:141
+#: inc/headding-design/package/class-vk-headding-design.php:141
+msgid "Top border keycolor background fill none"
+msgstr "上線 キーカラー 背景塗り無し"
+
+#: dist/lightning-pro/inc/headding-design/headding-design.php:243
+#: dist/lightning-pro/inc/headding-design/package/class-vk-headding-design.php:155
+#: inc/headding-design/package/class-vk-headding-design.php:155
+msgid "Top border keycolor background fill black"
+msgstr "上線 キーカラー 背景塗り黒"
+
+#: dist/lightning-pro/inc/headding-design/headding-design.php:272
+#: dist/lightning-pro/inc/headding-design/package/class-vk-headding-design.php:170
+#: inc/headding-design/package/class-vk-headding-design.php:170
+msgid "Double"
+msgstr "二重線"
+
+#: dist/lightning-pro/inc/headding-design/headding-design.php:299
+#: dist/lightning-pro/inc/headding-design/package/class-vk-headding-design.php:183
+#: inc/headding-design/package/class-vk-headding-design.php:183
+msgid "Double black"
+msgstr "二重線 黒"
+
+#: dist/lightning-pro/inc/headding-design/headding-design.php:326
+#: dist/lightning-pro/inc/headding-design/package/class-vk-headding-design.php:196
+#: inc/headding-design/package/class-vk-headding-design.php:196
+msgid "Double bottom border"
+msgstr "二重下線"
+
+#: dist/lightning-pro/inc/headding-design/headding-design.php:352
+#: dist/lightning-pro/inc/headding-design/package/class-vk-headding-design.php:208
+#: inc/headding-design/package/class-vk-headding-design.php:208
+msgid "Double bottom border black"
+msgstr "二重下線 黒"
+
+#: dist/lightning-pro/inc/headding-design/headding-design.php:378
+#: dist/lightning-pro/inc/headding-design/package/class-vk-headding-design.php:220
+#: inc/headding-design/package/class-vk-headding-design.php:220
+msgid "Solid"
+msgstr "線"
+
+#: dist/lightning-pro/inc/headding-design/headding-design.php:405
+#: dist/lightning-pro/inc/headding-design/package/class-vk-headding-design.php:233
+#: inc/headding-design/package/class-vk-headding-design.php:233
+msgid "Solid black"
+msgstr "線 黒"
+
+#: dist/lightning-pro/inc/headding-design/headding-design.php:432
+#: dist/lightning-pro/inc/headding-design/package/class-vk-headding-design.php:246
+#: inc/headding-design/package/class-vk-headding-design.php:246
+msgid "Solid bottom border"
+msgstr "下線"
+
+#: dist/lightning-pro/inc/headding-design/headding-design.php:459
+#: dist/lightning-pro/inc/headding-design/package/class-vk-headding-design.php:258
+#: inc/headding-design/package/class-vk-headding-design.php:258
+msgid "Solid bottom border black"
+msgstr "下線 黒"
+
+#: dist/lightning-pro/inc/headding-design/headding-design.php:486
+#: dist/lightning-pro/inc/headding-design/package/class-vk-headding-design.php:270
+#: inc/headding-design/package/class-vk-headding-design.php:270
+msgid "Solid bottom border left keycolor"
+msgstr "下線 左キーカラー"
+
+#: dist/lightning-pro/inc/headding-design/headding-design.php:527
+#: dist/lightning-pro/inc/headding-design/package/class-vk-headding-design.php:296
+#: inc/headding-design/package/class-vk-headding-design.php:296
+msgid "Dotted bottom border black"
+msgstr "下線 点線 黒"
+
+#: dist/lightning-pro/inc/headding-design/headding-design.php:555
+#: dist/lightning-pro/inc/headding-design/package/class-vk-headding-design.php:309
+#: inc/headding-design/package/class-vk-headding-design.php:309
+msgid "Both ends"
+msgstr "左右線"
+
+#: dist/lightning-pro/inc/headding-design/headding-design.php:596
+#: dist/lightning-pro/inc/headding-design/package/class-vk-headding-design.php:342
+#: inc/headding-design/package/class-vk-headding-design.php:342
+msgid "Left border"
+msgstr "左線"
+
+#: dist/lightning-pro/inc/headding-design/headding-design.php:622
+#: dist/lightning-pro/inc/headding-design/package/class-vk-headding-design.php:356
+#: inc/headding-design/package/class-vk-headding-design.php:356
+msgid "Left border nobackground"
+msgstr "左線背景無し"
+
+#: dist/lightning-pro/inc/headding-design/headding-design.php:649
+#: dist/lightning-pro/inc/headding-design/package/class-vk-headding-design.php:371
+#: inc/headding-design/package/class-vk-headding-design.php:371
+msgid "Diagonal stripe bottom border"
+msgstr "斜線ストライプ"
+
+#: dist/lightning-pro/inc/headding-design/headding-design.php:688
+#: dist/lightning-pro/inc/headding-design/package/class-vk-headding-design.php:397
+#: inc/headding-design/package/class-vk-headding-design.php:397
+msgid "Brackets"
+msgstr "括弧"
+
+#: dist/lightning-pro/inc/headding-design/headding-design.php:735
+#: dist/lightning-pro/inc/headding-design/package/class-vk-headding-design.php:420
+#: inc/headding-design/package/class-vk-headding-design.php:420
+msgid "Brackets black"
+msgstr "括弧 黒"
+
+#: dist/lightning-pro/inc/headding-design/headding-design.php:782
+#: dist/lightning-pro/inc/headding-design/package/class-vk-headding-design.php:444
+#: inc/headding-design/package/class-vk-headding-design.php:444
+msgid "Small bottom border"
+msgstr "小さい下線"
+
+#: dist/lightning-pro/inc/headding-design/headding-design.php:844
+#: dist/lightning-pro/inc/headding-design/package/class-vk-headding-design.php:494
+#: inc/headding-design/package/class-vk-headding-design.php:494
+msgid "Headding Design"
+msgstr "見出しデザイン"
+
+#: dist/lightning-pro/inc/headding-design/headding-design.php:856
+#: dist/lightning-pro/inc/headding-design/package/class-vk-headding-design.php:506
+#: inc/headding-design/package/class-vk-headding-design.php:506
+msgid "No setting"
+msgstr "設定なし"
+
+#: dist/lightning-pro/inc/headding-design/package/class-vk-headding-design.php:63
+#: inc/headding-design/package/class-vk-headding-design.php:63
+msgid "Plain ( Align center )"
+msgstr ""
+
+#: dist/lightning-pro/inc/headding-design/package/class-vk-headding-design.php:498
+#: inc/headding-design/package/class-vk-headding-design.php:498
+msgid "※ 配置する場所の背景色などの都合で適切に見えないものがあります。"
+msgstr ""
+
+#: dist/lightning-pro/inc/headding-design/package/class-vk-headding-design.php:644
+#: inc/headding-design/package/class-vk-headding-design.php:644
+msgid "H2"
+msgstr ""
+
+#: dist/lightning-pro/inc/header-top/package/class-lightning-header-top.php:83
+#: inc/header-top/package/class-lightning-header-top.php:83
+msgid "Header top settings"
+msgstr "ヘッダー上部設定"
+
+#: dist/lightning-pro/inc/header-top/package/class-lightning-header-top.php:102
+#: inc/header-top/package/class-lightning-header-top.php:102
+msgid "Hide header top area"
+msgstr "ヘッダー上部エリアを表示しない"
+
+#: dist/lightning-pro/inc/header-top/package/class-lightning-header-top.php:123
+#: inc/header-top/package/class-lightning-header-top.php:123
+msgid "Text align center and hide menu and contact button"
+msgstr "メニューと問い合わせボタンを非表示にしてテキストをセンター揃えにする"
+
+#: dist/lightning-pro/inc/header-top/package/class-lightning-header-top.php:137
+#: inc/header-top/package/class-lightning-header-top.php:137
+msgid "To choose your favorite icon, and enter HTML."
+msgstr "アイコンを選んでそのHTMLを入力してください。"
+
+#: dist/lightning-pro/inc/header-top/package/class-lightning-header-top.php:161
+#: inc/header-top/package/class-lightning-header-top.php:161
+msgid "Contact button icon"
+msgstr "お問い合わせボタンアイコン"
+
+#: dist/lightning-pro/inc/header-top/package/class-lightning-header-top.php:184
+#: inc/header-top/package/class-lightning-header-top.php:184
+msgid "Contact button text"
+msgstr "お問い合わせボタンの文字"
+
+#: dist/lightning-pro/inc/header-top/package/class-lightning-header-top.php:207
+#: inc/header-top/package/class-lightning-header-top.php:207
+msgid "Contact button link url"
+msgstr "お問い合わせボタンリンクURL"
+
+#: dist/lightning-pro/inc/header-top/package/class-lightning-header-top.php:211
+#: inc/header-top/package/class-lightning-header-top.php:211
+msgid "Ex : http:www.aaa.com/contact/"
+msgstr "Ex : http:www.aaa.com/contact/"
+
+#: dist/lightning-pro/inc/header-top/package/class-lightning-header-top.php:229
+#: inc/header-top/package/class-lightning-header-top.php:229
+msgid "Open link target in new tab"
+msgstr "リンク先を別ウィンドウで開く"
+
+#: dist/lightning-pro/inc/header-top/package/class-lightning-header-top.php:255
+#: inc/header-top/package/class-lightning-header-top.php:255
+msgid "Contact tel icon"
+msgstr "お問い合わせ電話用アイコン"
+
+#: dist/lightning-pro/inc/header-top/package/class-lightning-header-top.php:278
+#: inc/header-top/package/class-lightning-header-top.php:278
+msgid "Contact tel number"
+msgstr "お問い合わせ電話番号"
+
+#: dist/lightning-pro/inc/header-top/package/class-lightning-header-top.php:309
+#: dist/lightning-pro/inc/vk-page-header/package/class-vk-page-header.php:344
+#: inc/header-top/package/class-lightning-header-top.php:309
+#: inc/vk-page-header/package/class-vk-page-header.php:344
+msgid "Background color"
+msgstr "背景色"
+
+#: dist/lightning-pro/inc/header-top/package/class-lightning-header-top.php:332
+#: dist/lightning-pro/inc/vk-page-header/package/class-vk-page-header.php:410
+#: dist/lightning-pro/inc/vk-widget-pr-content/package/class-vk-widget-pr-content.php:585
+#: dist/lightning-pro/inc/vk-widget-pr-content/package/class-vk-widget-pr-content.php:596
+#: inc/header-top/package/class-lightning-header-top.php:332
+#: inc/vk-page-header/package/class-vk-page-header.php:410
+#: inc/vk-widget-pr-content/package/class-vk-widget-pr-content.php:585
+#: inc/vk-widget-pr-content/package/class-vk-widget-pr-content.php:596
+msgid "Text color"
+msgstr "文字色"
+
+#: dist/lightning-pro/inc/header-top/package/class-lightning-header-top.php:355
+#: inc/header-top/package/class-lightning-header-top.php:355
+msgid "Border bottom color"
+msgstr "下線の色"
+
+#: dist/lightning-pro/inc/header-trans/admin-post-meta.php:31
+#: inc/header-trans/admin-post-meta.php:31
+msgid "Header transmission"
+msgstr "ヘッダー透過"
+
+#: dist/lightning-pro/inc/header-trans/admin-post-meta.php:35
+#: dist/lightning-pro/inc/header-trans/class-lightning_header_trans.php:290
+#: inc/header-trans/admin-post-meta.php:35
+#: inc/header-trans/class-lightning_header_trans.php:290
+msgid "Enable header transmission"
+msgstr "ヘッダーを透過を有効にする"
+
+#: dist/lightning-pro/inc/header-trans/class-lightning_header_trans.php:211
+#: inc/header-trans/class-lightning_header_trans.php:211
+msgid "Header Transmission"
+msgstr "ヘッダー透過"
+
+#: dist/lightning-pro/inc/header-trans/class-lightning_header_trans.php:280
+#: inc/header-trans/class-lightning_header_trans.php:280
+msgid "Header settings"
+msgstr "ヘッダー設定"
+
+#: dist/lightning-pro/inc/header-trans/class-lightning_header_trans.php:304
+#: inc/header-trans/class-lightning_header_trans.php:304
+msgid "Transmission mode Header Background Color"
+msgstr "透過時 ヘッダー背景色"
+
+#: dist/lightning-pro/inc/header-trans/class-lightning_header_trans.php:317
+#: inc/header-trans/class-lightning_header_trans.php:317
+msgid "Transmission mode Header Opacity"
+msgstr "透過時 ヘッダー透過度"
+
+#: dist/lightning-pro/inc/header-trans/class-lightning_header_trans.php:336
+#: inc/header-trans/class-lightning_header_trans.php:336
+msgid "Transmission mode Header Top Opacity"
+msgstr "透過時 ヘッダー上部透過度"
+
+#: dist/lightning-pro/inc/header-trans/class-lightning_header_trans.php:355
+#: inc/header-trans/class-lightning_header_trans.php:355
+msgid "Transmission mode Header Text Color"
+msgstr "透過時 ヘッダー文字色"
+
+#: dist/lightning-pro/inc/header-trans/class-lightning_header_trans.php:368
+#: inc/header-trans/class-lightning_header_trans.php:368
+msgid "Transmission mode Header Logo Image"
+msgstr "透過時 ヘッダーロゴ画像"
+
+#: dist/lightning-pro/inc/layout-controller/admin-customize-layout.php:65
+#: inc/layout-controller/admin-customize-layout.php:65
+msgid "Archive Page"
+msgstr "アーカイブページ"
+
+#: dist/lightning-pro/inc/layout-controller/admin-customize-layout.php:74
+#: inc/layout-controller/admin-customize-layout.php:74
+msgid "Single Page"
+msgstr "詳細ページ"
+
+#: dist/lightning-pro/inc/layout-controller/admin-customize-layout.php:81
+#: dist/lightning-pro/inc/layout-controller/admin-post-meta.php:53
+#: dist/lightning-pro/inc/vk-footer-customize/package/class-widget-area-setting.php:121
+#: inc/layout-controller/admin-customize-layout.php:81
+#: inc/layout-controller/admin-post-meta.php:53
+#: inc/vk-footer-customize/package/class-widget-area-setting.php:121
+msgid "2 column"
+msgstr "２カラム"
+
+#: dist/lightning-pro/inc/layout-controller/admin-customize-layout.php:82
+#: dist/lightning-pro/inc/layout-controller/admin-post-meta.php:54
+#: dist/lightning-pro/inc/vk-footer-customize/package/class-widget-area-setting.php:120
+#: inc/layout-controller/admin-customize-layout.php:82
+#: inc/layout-controller/admin-post-meta.php:54
+#: inc/vk-footer-customize/package/class-widget-area-setting.php:120
+msgid "1 column"
+msgstr "１カラム"
+
+#: dist/lightning-pro/inc/layout-controller/admin-customize-layout.php:83
+#: dist/lightning-pro/inc/layout-controller/admin-post-meta.php:55
+#: inc/layout-controller/admin-customize-layout.php:83
+#: inc/layout-controller/admin-post-meta.php:55
+msgid "1 column ( No sub section )"
+msgstr "１カラム（サブセクション無し）"
+
+#: dist/lightning-pro/inc/layout-controller/admin-customize-layout.php:196
+#: inc/layout-controller/admin-customize-layout.php:196
+msgid "Sidebar fix setting"
+msgstr "サイドバー固定設定"
+
+#: dist/lightning-pro/inc/layout-controller/admin-customize-layout.php:201
+#: inc/layout-controller/admin-customize-layout.php:201
+msgid "Fix top priority"
+msgstr "上端優先"
+
+#: dist/lightning-pro/inc/layout-controller/admin-customize-layout.php:202
+#: inc/layout-controller/admin-customize-layout.php:202
+msgid "Fix bottom priority"
+msgstr "下端優先"
+
+#: dist/lightning-pro/inc/layout-controller/admin-post-meta.php:18
+#: inc/layout-controller/admin-post-meta.php:18
+msgid "Lightning design setting"
+msgstr "Lightning デザイン設定"
+
+#: dist/lightning-pro/inc/layout-controller/admin-post-meta.php:40
+#: inc/layout-controller/admin-post-meta.php:40
+msgid "Layout setting"
+msgstr "レイアウト設定"
+
+#: dist/lightning-pro/inc/layout-controller/admin-post-meta.php:52
+#: inc/layout-controller/admin-post-meta.php:52
+msgid "Use common settings"
+msgstr "共通設定を適用"
+
+#: dist/lightning-pro/inc/layout-controller/admin-post-meta.php:71
+#: inc/layout-controller/admin-post-meta.php:71
+msgid "Page Header and Breadcrumb"
+msgstr "ページヘッダーとパンくずリスト"
+
+#: dist/lightning-pro/inc/layout-controller/admin-post-meta.php:81
+#: inc/layout-controller/admin-post-meta.php:81
+msgid "Don't display Page Header"
+msgstr "ページヘッダーを表示しない"
+
+#: dist/lightning-pro/inc/layout-controller/admin-post-meta.php:90
+#: inc/layout-controller/admin-post-meta.php:90
+msgid "Don't display Breadcrumb"
+msgstr "パンくずリストを表示しない"
+
+#: dist/lightning-pro/inc/layout-controller/admin-post-meta.php:97
+#: inc/layout-controller/admin-post-meta.php:97
+msgid "Padding and margin setting"
+msgstr "余白設定"
+
+#: dist/lightning-pro/inc/layout-controller/admin-post-meta.php:101
+#: inc/layout-controller/admin-post-meta.php:101
+msgid "Delete siteContent padding"
+msgstr "siteContentの上下余白を無しにする"
+
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-media-posts-admin.php:131
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-vk-media-posts-bs4-admin.php:60
+#: inc/media-posts-bs4/package/class-vk-media-posts-bs4-admin.php:60
+msgid "Archive Page Setting"
+msgstr "アーカイブページ設定"
+
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-media-posts-admin.php:140
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-vk-media-posts-bs4-admin.php:69
+#: dist/lightning-pro/inc/media-posts/package/class-media-posts-admin.php:40
+#: inc/media-posts-bs4/package/class-vk-media-posts-bs4-admin.php:69
+#: inc/media-posts/package/class-media-posts-admin.php:40
+msgid "Author"
+msgstr "投稿者"
+
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-media-posts-admin.php:142
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-media-posts-bs4.php:77
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-vk-media-posts-bs4-admin.php:71
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-vk-media-posts-bs4.php:110
+#: dist/lightning-pro/inc/media-posts/package/class-media-posts-admin.php:42
+#: dist/lightning-pro/inc/media-posts/package/class-media-posts.php:97
+#: inc/media-posts-bs4/package/class-vk-media-posts-bs4-admin.php:71
+#: inc/media-posts-bs4/package/class-vk-media-posts-bs4.php:110
+#: inc/media-posts/package/class-media-posts-admin.php:42
+#: inc/media-posts/package/class-media-posts.php:97
+msgid "default"
+msgstr "標準"
+
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-media-posts-admin.php:191
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-media-posts-widget.php:184
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-vk-media-posts-bs4-admin.php:121
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-vk-media-posts-bs4-widget.php:226
+#: inc/media-posts-bs4/package/class-vk-media-posts-bs4-admin.php:121
+#: inc/media-posts-bs4/package/class-vk-media-posts-bs4-widget.php:226
+msgid "Display conditions"
+msgstr "表示条件"
+
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-media-posts-admin.php:194
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-vk-media-posts-bs4-admin.php:124
+#: inc/media-posts-bs4/package/class-vk-media-posts-bs4-admin.php:124
+msgid "Number of posts per page"
+msgstr "表示件数"
+
+#. translators: Display type and columns of posttype.
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-media-posts-admin.php:234
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-vk-media-posts-bs4-admin.php:162
+#: inc/media-posts-bs4/package/class-vk-media-posts-bs4-admin.php:162
+#, php-format
+msgid "Display type and columns [ %s ]"
+msgstr "表示タイプとカラム [ %s ]"
+
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-media-posts-admin.php:262
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-media-posts-widget.php:271
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-vk-media-posts-bs4-admin.php:190
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-vk-media-posts-bs4-widget.php:305
+#: inc/media-posts-bs4/package/class-vk-media-posts-bs4-admin.php:190
+#: inc/media-posts-bs4/package/class-vk-media-posts-bs4-widget.php:305
+msgid "Display type"
+msgstr "表示タイプ"
+
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-media-posts-admin.php:292
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-media-posts-widget.php:305
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-vk-media-posts-bs4-admin.php:217
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-vk-media-posts-bs4-widget.php:341
+#: inc/media-posts-bs4/package/class-vk-media-posts-bs4-admin.php:217
+#: inc/media-posts-bs4/package/class-vk-media-posts-bs4-widget.php:341
+msgid "Extra small"
+msgstr "Extra small"
+
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-media-posts-admin.php:293
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-media-posts-widget.php:306
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-vk-media-posts-bs4-admin.php:218
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-vk-media-posts-bs4-widget.php:342
+#: inc/media-posts-bs4/package/class-vk-media-posts-bs4-admin.php:218
+#: inc/media-posts-bs4/package/class-vk-media-posts-bs4-widget.php:342
+msgid "Small"
+msgstr "Small"
+
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-media-posts-admin.php:294
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-media-posts-widget.php:307
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-vk-media-posts-bs4-admin.php:219
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-vk-media-posts-bs4-widget.php:343
+#: inc/media-posts-bs4/package/class-vk-media-posts-bs4-admin.php:219
+#: inc/media-posts-bs4/package/class-vk-media-posts-bs4-widget.php:343
+msgid "Medium"
+msgstr "Medium"
+
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-media-posts-admin.php:295
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-media-posts-widget.php:308
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-vk-media-posts-bs4-admin.php:220
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-vk-media-posts-bs4-widget.php:344
+#: inc/media-posts-bs4/package/class-vk-media-posts-bs4-admin.php:220
+#: inc/media-posts-bs4/package/class-vk-media-posts-bs4-widget.php:344
+msgid "Large"
+msgstr "Large"
+
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-media-posts-admin.php:296
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-media-posts-widget.php:309
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-vk-media-posts-bs4-admin.php:221
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-vk-media-posts-bs4-widget.php:345
+#: inc/media-posts-bs4/package/class-vk-media-posts-bs4-admin.php:221
+#: inc/media-posts-bs4/package/class-vk-media-posts-bs4-widget.php:345
+msgid "Extra large"
+msgstr "Extra large"
+
+#. translators: Column of Screen sizes of xs, sm, md, lg, xl, xxl.
+#. translators: column of each screnn size of xs, sm, md, lg, xl and xxl.
+#. translators: Column of Screen sizes of xs, sm, md, lg, xl, xxl.
+#. translators: column of each screnn size of xs, sm, md, lg, xl and xxl.
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-media-posts-admin.php:314
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-media-posts-widget.php:316
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-vk-media-posts-bs4-admin.php:240
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-vk-media-posts-bs4-widget.php:353
+#: inc/media-posts-bs4/package/class-vk-media-posts-bs4-admin.php:240
+#: inc/media-posts-bs4/package/class-vk-media-posts-bs4-widget.php:353
+#, php-format
+msgid "Column ( Screen size : %s )"
+msgstr "カラム ( 画面サイズ : %s )"
+
+#. translators: Display item of each post type.
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-media-posts-admin.php:336
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-vk-media-posts-bs4-admin.php:331
+#: inc/media-posts-bs4/package/class-vk-media-posts-bs4-admin.php:331
+#, php-format
+msgid "Display item [ %s ]"
+msgstr "表示要素 [ %s ]"
+
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-media-posts-admin.php:347
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-media-posts-widget.php:336
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-vk-media-posts-bs4-admin.php:342
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-vk-media-posts-bs4-widget.php:420
+#: dist/lightning-pro/inc/vk-widget-pr-content/package/class-vk-widget-pr-content.php:663
+#: inc/media-posts-bs4/package/class-vk-media-posts-bs4-admin.php:342
+#: inc/media-posts-bs4/package/class-vk-media-posts-bs4-widget.php:420
+#: inc/vk-widget-pr-content/package/class-vk-widget-pr-content.php:663
+msgid "Image"
+msgstr "画像"
+
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-media-posts-admin.php:351
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-media-posts-widget.php:337
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-vk-media-posts-bs4-admin.php:346
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-vk-media-posts-bs4-widget.php:421
+#: inc/media-posts-bs4/package/class-vk-media-posts-bs4-admin.php:346
+#: inc/media-posts-bs4/package/class-vk-media-posts-bs4-widget.php:421
+msgid "Term name"
+msgstr "分類名"
+
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-media-posts-admin.php:355
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-media-posts-widget.php:338
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-vk-media-posts-bs4-admin.php:350
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-vk-media-posts-bs4-widget.php:422
+#: dist/lightning-pro/inc/widgets/widget-new-posts.php:246
+#: inc/media-posts-bs4/package/class-vk-media-posts-bs4-admin.php:350
+#: inc/media-posts-bs4/package/class-vk-media-posts-bs4-widget.php:422
+#: inc/widgets/widget-new-posts.php:246
+msgid "Excerpt"
+msgstr "抜粋"
+
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-media-posts-admin.php:359
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-media-posts-widget.php:339
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-vk-media-posts-bs4-admin.php:354
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-vk-media-posts-bs4-widget.php:423
+#: dist/lightning-pro/inc/widgets/widget-new-posts.php:246
+#: dist/lightning-pro/inc/widgets/widget-new-posts.php:253
+#: inc/media-posts-bs4/package/class-vk-media-posts-bs4-admin.php:354
+#: inc/media-posts-bs4/package/class-vk-media-posts-bs4-widget.php:423
+#: inc/widgets/widget-new-posts.php:246 inc/widgets/widget-new-posts.php:253
+msgid "Date"
+msgstr "日付"
+
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-media-posts-admin.php:363
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-media-posts-widget.php:340
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-vk-media-posts-bs4-admin.php:358
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-vk-media-posts-bs4-widget.php:424
+#: inc/media-posts-bs4/package/class-vk-media-posts-bs4-admin.php:358
+#: inc/media-posts-bs4/package/class-vk-media-posts-bs4-widget.php:424
+msgid "New mark"
+msgstr "新着表示"
+
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-media-posts-admin.php:367
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-media-posts-widget.php:341
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-vk-media-posts-bs4-admin.php:366
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-vk-media-posts-bs4-widget.php:426
+#: inc/media-posts-bs4/package/class-vk-media-posts-bs4-admin.php:366
+#: inc/media-posts-bs4/package/class-vk-media-posts-bs4-widget.php:426
+msgid "Button"
+msgstr "ボタン"
+
+#. translators: New mark options of each post type.
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-media-posts-admin.php:409
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-vk-media-posts-bs4-admin.php:407
+#: inc/media-posts-bs4/package/class-vk-media-posts-bs4-admin.php:407
+#, php-format
+msgid "New mark option [ %s ]"
+msgstr "新着表示オプション [ %s ]"
+
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-media-posts-admin.php:427
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-media-posts-widget.php:362
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-vk-media-posts-bs4-admin.php:425
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-vk-media-posts-bs4-widget.php:445
+#: inc/media-posts-bs4/package/class-vk-media-posts-bs4-admin.php:425
+#: inc/media-posts-bs4/package/class-vk-media-posts-bs4-widget.php:445
+msgid "Number of days to display the new post mark"
+msgstr "新着表示する日数"
+
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-media-posts-admin.php:446
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-media-posts-widget.php:368
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-vk-media-posts-bs4-admin.php:444
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-vk-media-posts-bs4-widget.php:451
+#: inc/media-posts-bs4/package/class-vk-media-posts-bs4-admin.php:444
+#: inc/media-posts-bs4/package/class-vk-media-posts-bs4-widget.php:451
+msgid "New mark text"
+msgstr "新着表示テキスト"
+
+#. translators: Button option of each post type.
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-media-posts-admin.php:470
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-vk-media-posts-bs4-admin.php:467
+#: inc/media-posts-bs4/package/class-vk-media-posts-bs4-admin.php:467
+#, php-format
+msgid "Button option [ %s ]"
+msgstr "ボタンオプション [ %s ]"
+
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-media-posts-admin.php:513
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-vk-media-posts-bs4-admin.php:510
+#: dist/lightning-pro/inc/vk-page-header/package/class-vk-page-header.php:449
+#: inc/media-posts-bs4/package/class-vk-media-posts-bs4-admin.php:510
+#: inc/vk-page-header/package/class-vk-page-header.php:449
+msgid "Text align"
+msgstr "文字の位置"
+
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-media-posts-bs4.php:18
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-vk-media-posts-bs4.php:35
+#: dist/lightning-pro/inc/vk-components/package/class-vk-component-posts.php:401
+#: inc/media-posts-bs4/package/class-vk-media-posts-bs4.php:35
+#: inc/vk-components/package/class-vk-component-posts.php:401
+msgid "Card"
+msgstr "カード"
+
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-media-posts-bs4.php:22
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-vk-media-posts-bs4.php:43
+#: dist/lightning-pro/inc/vk-components/package/class-vk-component-posts.php:405
+#: inc/media-posts-bs4/package/class-vk-media-posts-bs4.php:43
+#: inc/vk-components/package/class-vk-component-posts.php:405
+msgid "Card Horizontal"
+msgstr "カード（水平）"
+
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-media-posts-bs4.php:26
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-vk-media-posts-bs4.php:47
+#: dist/lightning-pro/inc/vk-components/package/class-vk-component-posts.php:409
+#: inc/media-posts-bs4/package/class-vk-media-posts-bs4.php:47
+#: inc/vk-components/package/class-vk-component-posts.php:409
+msgid "Media"
+msgstr "メディア"
+
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-media-posts-bs4.php:30
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-vk-media-posts-bs4.php:51
+#: dist/lightning-pro/inc/vk-components/package/class-vk-component-posts.php:413
+#: inc/media-posts-bs4/package/class-vk-media-posts-bs4.php:51
+#: inc/vk-components/package/class-vk-component-posts.php:413
+msgctxt "post list type"
+msgid "Text 1 Column"
+msgstr "テキスト 1 カラム"
+
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-media-posts-bs4.php:48
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-media-posts-widget.php:80
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-vk-media-posts-bs4-widget.php:111
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-vk-media-posts-bs4.php:75
+#: dist/lightning-pro/inc/vk-components/package/class-vk-component-posts.php:34
+#: dist/lightning-pro/inc/widgets/widget-new-posts.php:142
+#: dist/lightning-pro/template-parts/post/loop-layout-use-component-sample.php:12
+#: inc/media-posts-bs4/package/class-vk-media-posts-bs4-widget.php:111
+#: inc/media-posts-bs4/package/class-vk-media-posts-bs4.php:75
+#: inc/vk-components/package/class-vk-component-posts.php:34
+#: inc/widgets/widget-new-posts.php:142
+#: template-parts/post/loop-layout-use-component-sample.php:12
+msgid "Read more"
+msgstr "続きを読む"
+
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-media-posts-bs4.php:51
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-vk-media-posts-bs4.php:78
+#: dist/lightning-pro/inc/vk-components/package/class-vk-component-posts.php:36
+#: dist/lightning-pro/template-parts/post/loop-layout-use-component-sample.php:14
+#: inc/media-posts-bs4/package/class-vk-media-posts-bs4.php:78
+#: inc/vk-components/package/class-vk-component-posts.php:36
+#: template-parts/post/loop-layout-use-component-sample.php:14
+msgid "New!!"
+msgstr "New!!"
+
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-media-posts-bs4.php:90
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-vk-media-posts-bs4.php:131
+#: dist/lightning-pro/inc/media-posts/package/class-media-posts.php:110
+#: inc/media-posts-bs4/package/class-vk-media-posts-bs4.php:131
+#: inc/media-posts/package/class-media-posts.php:110
+msgid "Posts"
+msgstr "投稿"
+
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-media-posts-bs4.php:91
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-vk-media-posts-bs4.php:132
+#: dist/lightning-pro/inc/media-posts/package/class-media-posts.php:111
+#: inc/media-posts-bs4/package/class-vk-media-posts-bs4.php:132
+#: inc/media-posts/package/class-media-posts.php:111
+msgid "Pages"
+msgstr "固定ページ"
+
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-media-posts-widget.php:13
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-vk-media-posts-bs4-widget.php:25
+#: inc/media-posts-bs4/package/class-vk-media-posts-bs4-widget.php:25
+msgid "Media Posts BS4"
+msgstr "Media Posts BS4"
+
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-media-posts-widget.php:17
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-vk-media-posts-bs4-widget.php:29
+#: dist/lightning-pro/inc/media-posts/package/class-media-posts-widget.php:17
+#: inc/media-posts-bs4/package/class-vk-media-posts-bs4-widget.php:29
+#: inc/media-posts/package/class-media-posts-widget.php:17
+msgid ""
+"It is a widget that displays the post list. Various shapes can be selected."
+msgstr "投稿リスト用のウィジェットです。様々な表示形式が選択できます。"
+
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-media-posts-widget.php:31
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-media-posts-widget.php:63
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-vk-media-posts-bs4-widget.php:44
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-vk-media-posts-bs4-widget.php:93
+#: dist/lightning-pro/inc/media-posts/package/class-media-posts-widget.php:27
+#: dist/lightning-pro/inc/media-posts/package/class-media-posts-widget.php:126
+#: dist/lightning-pro/inc/widgets/widget-new-posts.php:49
+#: dist/lightning-pro/inc/widgets/widget-new-posts.php:228
+#: inc/media-posts-bs4/package/class-vk-media-posts-bs4-widget.php:44
+#: inc/media-posts-bs4/package/class-vk-media-posts-bs4-widget.php:93
+#: inc/media-posts/package/class-media-posts-widget.php:27
+#: inc/media-posts/package/class-media-posts-widget.php:126
+#: inc/widgets/widget-new-posts.php:49 inc/widgets/widget-new-posts.php:228
+#: tests/test-media-posts.php:87
+msgid "Recent Posts"
+msgstr "最近の投稿"
+
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-media-posts-widget.php:174
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-vk-media-posts-bs4-widget.php:217
+#: dist/lightning-pro/inc/media-posts/package/class-media-posts-widget.php:139
+#: dist/lightning-pro/inc/widgets/widget-full-wide-title.php:44
+#: dist/lightning-pro/inc/widgets/widget-new-posts.php:258
+#: inc/media-posts-bs4/package/class-vk-media-posts-bs4-widget.php:217
+#: inc/media-posts/package/class-media-posts-widget.php:139
+#: inc/widgets/widget-full-wide-title.php:44
+#: inc/widgets/widget-new-posts.php:258
+msgid "Title:"
+msgstr "タイトル:"
+
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-media-posts-widget.php:186
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-vk-media-posts-bs4-widget.php:228
+#: inc/media-posts-bs4/package/class-vk-media-posts-bs4-widget.php:228
+msgid "Display post types"
+msgstr "表示する投稿タイプ"
+
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-media-posts-widget.php:226
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-vk-media-posts-bs4-widget.php:266
+#: dist/lightning-pro/inc/media-posts/package/class-media-posts-widget.php:202
+#: inc/media-posts-bs4/package/class-vk-media-posts-bs4-widget.php:266
+#: inc/media-posts/package/class-media-posts-widget.php:202
+msgid "Category(Term) ID"
+msgstr "カテゴリー (ターム) ID"
+
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-media-posts-widget.php:231
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-vk-media-posts-bs4-widget.php:272
+#: dist/lightning-pro/inc/media-posts/package/class-media-posts-widget.php:205
+#: inc/media-posts-bs4/package/class-vk-media-posts-bs4-widget.php:272
+#: inc/media-posts/package/class-media-posts-widget.php:205
+msgid ""
+"If you need filtering by category(term), add the category ID separate by \","
+"\"."
+msgstr ""
+"特定のカテゴリー（あるいはカスタム分類）の投稿だけを表示したい場合は、表示し"
+"たいカテゴリーのIDを , 区切りで入力してください。"
+
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-media-posts-widget.php:233
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-vk-media-posts-bs4-widget.php:274
+#: dist/lightning-pro/inc/media-posts/package/class-media-posts-widget.php:207
+#: inc/media-posts-bs4/package/class-vk-media-posts-bs4-widget.php:274
+#: inc/media-posts/package/class-media-posts-widget.php:207
+msgid "If empty this area, I will do not filtering."
+msgstr "未入力の場合はカスタム分類による絞り込みはされません。"
+
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-media-posts-widget.php:244
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-vk-media-posts-bs4-widget.php:282
+#: dist/lightning-pro/inc/media-posts/package/class-media-posts-widget.php:177
+#: dist/lightning-pro/inc/widgets/widget-new-posts.php:263
+#: inc/media-posts-bs4/package/class-vk-media-posts-bs4-widget.php:282
+#: inc/media-posts/package/class-media-posts-widget.php:177
+#: inc/widgets/widget-new-posts.php:263
+msgid "Display count"
+msgstr "表示件数"
+
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-media-posts-widget.php:254
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-vk-media-posts-bs4-widget.php:290
+#: dist/lightning-pro/inc/media-posts/package/class-media-posts-widget.php:182
+#: inc/media-posts-bs4/package/class-vk-media-posts-bs4-widget.php:290
+#: inc/media-posts/package/class-media-posts-widget.php:182
+msgid "Offset count"
+msgstr "オフセット数"
+
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-media-posts-widget.php:268
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-vk-media-posts-bs4-widget.php:302
+#: inc/media-posts-bs4/package/class-vk-media-posts-bs4-widget.php:302
+msgid "Display type and columns"
+msgstr "表示タイプとカラム"
+
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-media-posts-widget.php:297
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-vk-media-posts-bs4-widget.php:333
+#: inc/media-posts-bs4/package/class-vk-media-posts-bs4-widget.php:333
+msgid "Columns"
+msgstr "列"
+
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-media-posts-widget.php:300
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-vk-media-posts-bs4-widget.php:336
+#: inc/media-posts-bs4/package/class-vk-media-posts-bs4-widget.php:336
+msgid "Please input column count to under the range of 1 to 4."
+msgstr "列数を1〜4の数字で入力してください。"
+
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-media-posts-widget.php:332
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-vk-media-posts-bs4-widget.php:416
+#: inc/media-posts-bs4/package/class-vk-media-posts-bs4-widget.php:416
+msgid "Display item"
+msgstr "表示要素"
+
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-media-posts-widget.php:354
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-vk-media-posts-bs4-widget.php:438
+#: inc/media-posts-bs4/package/class-vk-media-posts-bs4-widget.php:438
+msgid "New mark option"
+msgstr "新着表示設定"
+
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-media-posts-widget.php:374
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-vk-media-posts-bs4-widget.php:457
+#: inc/media-posts-bs4/package/class-vk-media-posts-bs4-widget.php:457
+msgid "Button option"
+msgstr "ボタンオプション"
+
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-media-posts-widget.php:383
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-vk-media-posts-bs4-widget.php:466
+#: inc/media-posts-bs4/package/class-vk-media-posts-bs4-widget.php:466
+msgid "Button align"
+msgstr "ボタンの位置"
+
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-vk-media-posts-bs4-admin.php:222
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-vk-media-posts-bs4-widget.php:346
+#: inc/media-posts-bs4/package/class-vk-media-posts-bs4-admin.php:222
+#: inc/media-posts-bs4/package/class-vk-media-posts-bs4-widget.php:346
+msgid "XX large"
+msgstr "XX large"
+
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-vk-media-posts-bs4-admin.php:260
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-vk-media-posts-bs4-widget.php:365
+#: inc/media-posts-bs4/package/class-vk-media-posts-bs4-admin.php:260
+#: inc/media-posts-bs4/package/class-vk-media-posts-bs4-widget.php:365
+msgid "Order Option"
+msgstr "表示順オプション"
+
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-vk-media-posts-bs4-admin.php:286
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-vk-media-posts-bs4-widget.php:370
+#: inc/media-posts-bs4/package/class-vk-media-posts-bs4-admin.php:286
+#: inc/media-posts-bs4/package/class-vk-media-posts-bs4-widget.php:370
+msgid "Published Day"
+msgstr "公開日"
+
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-vk-media-posts-bs4-admin.php:287
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-vk-media-posts-bs4-widget.php:371
+#: inc/media-posts-bs4/package/class-vk-media-posts-bs4-admin.php:287
+#: inc/media-posts-bs4/package/class-vk-media-posts-bs4-widget.php:371
+msgid "Modefied Day"
+msgstr "最終更新日"
+
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-vk-media-posts-bs4-admin.php:288
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-vk-media-posts-bs4-widget.php:372
+#: dist/lightning-pro/inc/vk-font-selector/package/class-vk-font-selector.php:437
+#: dist/lightning-pro/inc/vk-font-selector/package/class-vk-font-selector.php:451
+#: dist/lightning-pro/inc/vk-font-selector/vk-font-selector-config.php:35
+#: dist/lightning-pro/inc/vk-font-selector/vk-font-selector-config.php:55
+#: dist/lightning-pro/inc/vk-widget-pr-content/package/class-vk-widget-pr-content.php:581
+#: dist/lightning-pro/inc/widgets/widget-new-posts.php:246
+#: dist/lightning-pro/inc/widgets/widget-new-posts.php:253
+#: inc/media-posts-bs4/package/class-vk-media-posts-bs4-admin.php:288
+#: inc/media-posts-bs4/package/class-vk-media-posts-bs4-widget.php:372
+#: inc/vk-font-selector/package/class-vk-font-selector.php:437
+#: inc/vk-font-selector/package/class-vk-font-selector.php:451
+#: inc/vk-font-selector/vk-font-selector-config.php:35
+#: inc/vk-font-selector/vk-font-selector-config.php:55
+#: inc/vk-widget-pr-content/package/class-vk-widget-pr-content.php:581
+#: inc/widgets/widget-new-posts.php:246 inc/widgets/widget-new-posts.php:253
+msgid "Title"
+msgstr "タイトル"
+
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-vk-media-posts-bs4-admin.php:289
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-vk-media-posts-bs4-widget.php:373
+#: inc/media-posts-bs4/package/class-vk-media-posts-bs4-admin.php:289
+#: inc/media-posts-bs4/package/class-vk-media-posts-bs4-widget.php:373
+msgid "Random"
+msgstr "ランダム"
+
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-vk-media-posts-bs4-admin.php:307
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-vk-media-posts-bs4-widget.php:388
+#: inc/media-posts-bs4/package/class-vk-media-posts-bs4-admin.php:307
+#: inc/media-posts-bs4/package/class-vk-media-posts-bs4-widget.php:388
+msgid "Order"
+msgstr "表示順"
+
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-vk-media-posts-bs4-admin.php:312
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-vk-media-posts-bs4-widget.php:392
+#: inc/media-posts-bs4/package/class-vk-media-posts-bs4-admin.php:312
+#: inc/media-posts-bs4/package/class-vk-media-posts-bs4-widget.php:392
+msgid "DESC"
+msgstr "降順"
+
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-vk-media-posts-bs4-admin.php:313
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-vk-media-posts-bs4-widget.php:393
+#: inc/media-posts-bs4/package/class-vk-media-posts-bs4-admin.php:313
+#: inc/media-posts-bs4/package/class-vk-media-posts-bs4-widget.php:393
+msgid "ASC"
+msgstr "昇順"
+
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-vk-media-posts-bs4-admin.php:362
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-vk-media-posts-bs4-widget.php:425
+#: inc/media-posts-bs4/package/class-vk-media-posts-bs4-admin.php:362
+#: inc/media-posts-bs4/package/class-vk-media-posts-bs4-widget.php:425
+msgid "Taxonomies"
+msgstr "タクソノミー"
+
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-vk-media-posts-bs4-widget.php:366
+#: inc/media-posts-bs4/package/class-vk-media-posts-bs4-widget.php:366
+msgid "Order by"
+msgstr "表示順の基準"
+
+#: dist/lightning-pro/inc/media-posts-bs4/package/class-vk-media-posts-bs4.php:39
+#: inc/media-posts-bs4/package/class-vk-media-posts-bs4.php:39
+msgid "Card Noborder"
+msgstr "カード（線なし）"
+
+#: dist/lightning-pro/inc/media-posts/package/class-media-posts-admin.php:30
+#: inc/media-posts/package/class-media-posts-admin.php:30
+msgid "Archive Layouts"
+msgstr "アーカイブページレイアウト"
+
+#: dist/lightning-pro/inc/media-posts/package/class-media-posts-admin.php:70
+#: inc/media-posts/package/class-media-posts-admin.php:70
+#, php-format
+msgid "Archive Page Layout [ %s ]"
+msgstr "アーカイブページレイアウト [ %s ]"
+
+#: dist/lightning-pro/inc/media-posts/package/class-media-posts-admin.php:89
+#: inc/media-posts/package/class-media-posts-admin.php:89
+#, php-format
+msgid "Post counts per pages [ %s ]"
+msgstr "表示件数 [ %s ]"
+
+#: dist/lightning-pro/inc/media-posts/package/class-media-posts-widget.php:143
+#: inc/media-posts/package/class-media-posts-widget.php:143
+msgid "Title icon:"
+msgstr "タイトルアイコン:"
+
+#: dist/lightning-pro/inc/media-posts/package/class-media-posts-widget.php:149
+#: inc/media-posts/package/class-media-posts-widget.php:149
+msgid "Class name of the icon font you want to use:"
+msgstr "アイコンフォントを使う場合のクラス名:"
+
+#: dist/lightning-pro/inc/media-posts/package/class-media-posts-widget.php:160
+#: dist/lightning-pro/inc/widgets/widget-new-posts.php:239
+#: inc/media-posts/package/class-media-posts-widget.php:160
+#: inc/widgets/widget-new-posts.php:239
+msgid "Display Format"
+msgstr "表示形式"
+
+#: dist/lightning-pro/inc/media-posts/package/class-media-posts-widget.php:185
+#: inc/media-posts/package/class-media-posts-widget.php:185
+msgid ""
+"If you skip 2 posts and you want to display from 3rd post, please enter a 2."
+msgstr "2件飛ばして3件目の投稿から表示したい場合、2 を入力してください。"
+
+#: dist/lightning-pro/inc/media-posts/package/class-media-posts-widget.php:192
+#: inc/media-posts/package/class-media-posts-widget.php:192
+msgid "Number of days to display the New icon"
+msgstr "Newアイコンを表示する日数"
+
+#: dist/lightning-pro/inc/media-posts/package/class-media-posts-widget.php:197
+#: inc/media-posts/package/class-media-posts-widget.php:197
+msgid "Slug for the post type you want to display"
+msgstr "表紙させたい投稿タイプのスラッグ"
+
+#: dist/lightning-pro/inc/media-posts/package/class-media-posts.php:32
+#: inc/media-posts/package/class-media-posts.php:32
+msgid "Image card 1st feature"
+msgstr "画像カード 1st feature"
+
+#: dist/lightning-pro/inc/media-posts/package/class-media-posts.php:37
+#: inc/media-posts/package/class-media-posts.php:37
+msgid "Image card 3 colmun"
+msgstr "画像カード3カラム"
+
+#: dist/lightning-pro/inc/media-posts/package/class-media-posts.php:43
+#: inc/media-posts/package/class-media-posts.php:43
+msgid "Image card 1 colmun"
+msgstr "画像カード1カラム"
+
+#: dist/lightning-pro/inc/media-posts/package/class-media-posts.php:49
+#: inc/media-posts/package/class-media-posts.php:49
+msgid "Vertical card 3 column"
+msgstr "縦カード3カラム"
+
+#: dist/lightning-pro/inc/media-posts/package/class-media-posts.php:55
+#: inc/media-posts/package/class-media-posts.php:55
+msgid "Vertical card 1 column"
+msgstr "縦カード1カラム"
+
+#: dist/lightning-pro/inc/media-posts/package/class-media-posts.php:61
+#: inc/media-posts/package/class-media-posts.php:61
+msgid "Vertical card large image 3 column"
+msgstr "縦カード画像大3カラム"
+
+#: dist/lightning-pro/inc/media-posts/package/class-media-posts.php:67
+#: inc/media-posts/package/class-media-posts.php:67
+msgid "Vertical card large image 1 column"
+msgstr "縦カード画像大1カラム"
+
+#: dist/lightning-pro/inc/media-posts/package/class-media-posts.php:73
+#: inc/media-posts/package/class-media-posts.php:73
+msgid "Oblong card 1 column"
+msgstr "横カード1カラム"
+
+#: dist/lightning-pro/inc/media-posts/package/class-media-posts.php:79
+#: inc/media-posts/package/class-media-posts.php:79
+msgid "Oblong card large image 1 column"
+msgstr "横カード画像大1カラム"
+
+#: dist/lightning-pro/inc/media-posts/package/class-media-posts.php:158
+#: inc/media-posts/package/class-media-posts.php:158
+msgid "Home content top after left"
+msgstr "トップ コンテンツエリア左"
+
+#: dist/lightning-pro/inc/media-posts/package/class-media-posts.php:169
+#: inc/media-posts/package/class-media-posts.php:169
+msgid "Home content top after right"
+msgstr "トップ コンテンツエリア右"
+
+#: dist/lightning-pro/inc/media-posts/package/class-media-posts.php:180
+#: inc/media-posts/package/class-media-posts.php:180
+msgid "Home content top bottom widget"
+msgstr "トップ コンテンツエリア下部"
+
+#: dist/lightning-pro/inc/package-manager.php:26 inc/package-manager.php:26
+msgid "Full Wide Title Widget"
+msgstr "全幅見出しウィジェット"
+
+#: dist/lightning-pro/inc/package-manager.php:27 inc/package-manager.php:27
+msgid ""
+"If you are using Lightning Pro that, You can use the same function by Outer "
+"Block and Title Block in Plugin VK Blocks."
+msgstr ""
+"Lightning Proを使用している場合、プラグイン VK Blocks の Outer ブロックと見出"
+"しブロックで同じ機能を利用できます。"
+
+#: dist/lightning-pro/inc/package-manager.php:31
+#: dist/lightning-pro/inc/widgets/widget-new-posts.php:12
+#: inc/package-manager.php:31 inc/widgets/widget-new-posts.php:12
+msgid "Content Area Posts Widget"
+msgstr "コンテンツエリア投稿ウィジェット"
+
+#: dist/lightning-pro/inc/package-manager.php:32 inc/package-manager.php:32
+msgid ""
+"If you are using Lightning Pro that, You can use the more powerful function "
+"by Media Posts BS4 Widget and Latest Posts Block in Plugin VK Blocks."
+msgstr ""
+"Lightning Proを使用している場合、Media Posts BS4 ウィジェット および プラグイ"
+"ン VK Blocks の 新着記事ブロックにより、より強力な機能を使用できます。"
+
+#: dist/lightning-pro/inc/package-manager.php:37 inc/package-manager.php:37
+msgid "You can use same function by PR Block in Plugin VK Blocks"
+msgstr "プラグイン VK Blocks の PR Block ブロックで同様の機能が利用できます。"
+
+#: dist/lightning-pro/inc/package-manager.php:58 inc/package-manager.php:58
+msgid "Not recommended functions"
+msgstr "非推奨機能"
+
+#: dist/lightning-pro/inc/package-manager.php:62 inc/package-manager.php:62
+msgid "These are old functions that already alternated to the new function."
+msgstr "これらの古い機能は新しい機能に置き換わります。"
+
+#: dist/lightning-pro/inc/package-manager.php:80 inc/package-manager.php:80
+#, php-format
+msgid "Stop %s"
+msgstr "%s を停止"
+
+#: dist/lightning-pro/inc/plugin-update-checker/Puc/v4p4/Plugin/UpdateChecker.php:395
+#: inc/plugin-update-checker/Puc/v4p4/Plugin/UpdateChecker.php:395
+msgid "Check for updates"
+msgstr "アップデートを確認"
+
+#: dist/lightning-pro/inc/plugin-update-checker/Puc/v4p4/Plugin/UpdateChecker.php:433
+#: inc/plugin-update-checker/Puc/v4p4/Plugin/UpdateChecker.php:433
+msgid "View details"
+msgstr "詳細を表示"
+
+#: dist/lightning-pro/inc/plugin-update-checker/Puc/v4p4/Plugin/UpdateChecker.php:456
+#: inc/plugin-update-checker/Puc/v4p4/Plugin/UpdateChecker.php:456
+#, php-format
+msgid "More information about %s"
+msgstr "%sについての詳細"
+
+#: dist/lightning-pro/inc/plugin-update-checker/Puc/v4p4/Plugin/UpdateChecker.php:549
+#: inc/plugin-update-checker/Puc/v4p4/Plugin/UpdateChecker.php:549
+#, php-format
+msgctxt "the plugin title"
+msgid "The %s plugin is up to date."
+msgstr "%s プラグインは最新です。"
+
+#: dist/lightning-pro/inc/plugin-update-checker/Puc/v4p4/Plugin/UpdateChecker.php:551
+#: inc/plugin-update-checker/Puc/v4p4/Plugin/UpdateChecker.php:551
+#, php-format
+msgctxt "the plugin title"
+msgid "A new version of the %s plugin is available."
+msgstr "%sプラグインの新しいバージョンが利用可能です。"
+
+#: dist/lightning-pro/inc/plugin-update-checker/Puc/v4p4/Plugin/UpdateChecker.php:553
+#: inc/plugin-update-checker/Puc/v4p4/Plugin/UpdateChecker.php:553
+#, php-format
+msgctxt "the plugin title"
+msgid "Could not determine if updates are available for %s."
+msgstr "%1$s.に対して利用可能なアップデートがあるか確認できませんでした"
+
+#: dist/lightning-pro/inc/plugin-update-checker/Puc/v4p4/Plugin/UpdateChecker.php:559
+#: inc/plugin-update-checker/Puc/v4p4/Plugin/UpdateChecker.php:559
+#, php-format
+msgid "Unknown update checker status \"%s\""
+msgstr "不明なアップデートチェッカーステータス \"%s\""
+
+#: dist/lightning-pro/inc/plugin-update-checker/Puc/v4p4/Vcs/PluginUpdateChecker.php:98
+#: inc/plugin-update-checker/Puc/v4p4/Vcs/PluginUpdateChecker.php:98
+msgid "There is no changelog available."
+msgstr "チェンジログはありません"
+
+#: dist/lightning-pro/inc/plugin-update-checker/plugin-update-checker-config.php:34
+#: dist/lightning-pro/inc/plugin-update-checker/plugin-update-checker-config.php:49
+#: inc/plugin-update-checker/plugin-update-checker-config.php:34
+#: inc/plugin-update-checker/plugin-update-checker-config.php:49
+msgid "License key"
+msgstr "ライセンスキー"
+
+#: dist/lightning-pro/inc/plugin-update-checker/plugin-update-checker-config.php:52
+#: inc/plugin-update-checker/plugin-update-checker-config.php:52
+msgid ""
+"Once you enter the license key you will be able to do a one click update "
+"from the administration screen."
+msgstr ""
+"ライセンスキーを入力すると管理画面からワンクリックアップデートが出来るように"
+"なります。"
+
+#: dist/lightning-pro/inc/template-tags.php:101 inc/template-tags.php:101
+msgid "https://lightning.nagoya/"
+msgstr "https://lightning.nagoya/ja/"
+
+#: dist/lightning-pro/inc/template-tags.php:102 inc/template-tags.php:102
+msgid "Simple and Customize easy <br>WordPress theme."
+msgstr "シンプルでカスタマイズしやすい <br>WordPress テーマ"
+
+#: dist/lightning-pro/inc/template-tags.php:103 inc/template-tags.php:103
+msgid "100% GPL Lisence  and adopting the bootstrap"
+msgstr "100% GPL ライセンス / Bootstrap ベース"
+
+#: dist/lightning-pro/inc/template-tags.php:104
+#: dist/lightning-pro/inc/template-tags.php:113 inc/template-tags.php:104
+#: inc/template-tags.php:113
+msgid "READ MORE"
+msgstr "READ MORE"
+
+#: dist/lightning-pro/inc/template-tags.php:111 inc/template-tags.php:111
+msgid "Johnijirou On Snow"
+msgstr "Johnijirou On Snow"
+
+#: dist/lightning-pro/inc/template-tags.php:112 inc/template-tags.php:112
+msgid "Growing up everyday"
+msgstr "Growing up everyday"
+
+#: dist/lightning-pro/inc/template-tags.php:331 inc/template-tags.php:331
+#, php-format
+msgid "Author: %s"
+msgstr "投稿者: %s"
+
+#: dist/lightning-pro/inc/template-tags.php:333 inc/template-tags.php:333
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y年"
+
+#: dist/lightning-pro/inc/template-tags.php:335 inc/template-tags.php:335
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "Y年n月"
+
+#: dist/lightning-pro/inc/template-tags.php:337 inc/template-tags.php:337
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "Y年n月j日"
+
+#: dist/lightning-pro/inc/template-tags.php:352 inc/template-tags.php:352
+msgid "Archives"
+msgstr "アーカイブ"
+
+#: dist/lightning-pro/inc/template-tags.php:365 inc/template-tags.php:365
+#, php-format
+msgid "Copyright &copy; %s All Rights Reserved."
+msgstr "Copyright &copy; %s All Rights Reserved."
+
+#: dist/lightning-pro/inc/template-tags.php:370 inc/template-tags.php:370
+msgid ""
+"<p>Powered by <a href=\"https://wordpress.org/\">WordPress</a> &amp; <a href="
+"\"https://lightning.nagoya\" target=\"_blank\" title=\"Free WordPress Theme "
+"Lightning\"> Lightning Theme</a> by Vektor,Inc. technology.</p>"
+msgstr ""
+"<p>Powered by <a href=\"https://ja.wordpress.org/\">WordPress</a> &amp; <a "
+"href=\"//lightning.bizvektor.com/ja/\" target=\"_blank\" title=\"Free "
+"WordPress Theme Lightning\"> Lightning Theme</a> by Vektor,Inc. technology.</"
+"p>"
+
+#: dist/lightning-pro/inc/term-color/package/class.term-color.php:41
+#: dist/lightning-pro/inc/term-color/package/class.term-color.php:56
+#: dist/lightning-pro/inc/term-color/package/class.term-color.php:130
+#: inc/term-color/package/class.term-color.php:41
+#: inc/term-color/package/class.term-color.php:56
+#: inc/term-color/package/class.term-color.php:130
+msgid "Color"
+msgstr "色"
+
+#: dist/lightning-pro/inc/tgm-plugin-activation/class-tgm-plugin-activation.php:333
+#: dist/lightning-pro/inc/tgm-plugin-activation/tgm-config.php:122
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:333
+#: inc/tgm-plugin-activation/tgm-config.php:122
+msgid "Install Required Plugins"
+msgstr "必須プラグインのインストール"
+
+#: dist/lightning-pro/inc/tgm-plugin-activation/class-tgm-plugin-activation.php:334
+#: dist/lightning-pro/inc/tgm-plugin-activation/tgm-config.php:123
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:334
+#: inc/tgm-plugin-activation/tgm-config.php:123
+msgid "Install Plugins"
+msgstr "プラグインのインストール"
+
+#: dist/lightning-pro/inc/tgm-plugin-activation/class-tgm-plugin-activation.php:335
+#: dist/lightning-pro/inc/tgm-plugin-activation/tgm-config.php:124
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:335
+#: inc/tgm-plugin-activation/tgm-config.php:124
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "プラグインのインストール中: %s"
+
+#: dist/lightning-pro/inc/tgm-plugin-activation/class-tgm-plugin-activation.php:336
+#: dist/lightning-pro/inc/tgm-plugin-activation/tgm-config.php:125
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:336
+#: inc/tgm-plugin-activation/tgm-config.php:125
+msgid "Something went wrong with the plugin API."
+msgstr "プラグイン API で問題が発生しました。"
+
+#: dist/lightning-pro/inc/tgm-plugin-activation/class-tgm-plugin-activation.php:338
+#: dist/lightning-pro/inc/tgm-plugin-activation/tgm-config.php:127
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:338
+#: inc/tgm-plugin-activation/tgm-config.php:127
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "このテーマは次のプラグインが必要です: %1$s"
+
+#: dist/lightning-pro/inc/tgm-plugin-activation/class-tgm-plugin-activation.php:343
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:343
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "このテーマは次のプラグインを推奨します: %1$s"
+
+#: dist/lightning-pro/inc/tgm-plugin-activation/class-tgm-plugin-activation.php:348
+#: dist/lightning-pro/inc/tgm-plugin-activation/tgm-config.php:137
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:348
+#: inc/tgm-plugin-activation/tgm-config.php:137
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugins."
+msgstr[0] "%1$s プラグインをインストールするための適切な権限がありません。"
+
+#: dist/lightning-pro/inc/tgm-plugin-activation/class-tgm-plugin-activation.php:353
+#: dist/lightning-pro/inc/tgm-plugin-activation/tgm-config.php:142
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:353
+#: inc/tgm-plugin-activation/tgm-config.php:142
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+"このテーマと最大限互換性を保つには次のプラグインを最新版に更新する必要があり"
+"ます: %1$s"
+
+#: dist/lightning-pro/inc/tgm-plugin-activation/class-tgm-plugin-activation.php:358
+#: dist/lightning-pro/inc/tgm-plugin-activation/tgm-config.php:147
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:358
+#: inc/tgm-plugin-activation/tgm-config.php:147
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "次のプラグインの更新が利用可能です：%1$s。"
+
+#: dist/lightning-pro/inc/tgm-plugin-activation/class-tgm-plugin-activation.php:363
+#: dist/lightning-pro/inc/tgm-plugin-activation/tgm-config.php:152
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:363
+#: inc/tgm-plugin-activation/tgm-config.php:152
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %1$s plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %1$s "
+"plugins."
+msgstr[0] "%1$s プラグインを更新する権限がありません。"
+
+#: dist/lightning-pro/inc/tgm-plugin-activation/class-tgm-plugin-activation.php:368
+#: dist/lightning-pro/inc/tgm-plugin-activation/tgm-config.php:157
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:368
+#: inc/tgm-plugin-activation/tgm-config.php:157
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "次の必須プラグインは現在、停止中です: %1$s"
+
+#: dist/lightning-pro/inc/tgm-plugin-activation/class-tgm-plugin-activation.php:373
+#: dist/lightning-pro/inc/tgm-plugin-activation/tgm-config.php:162
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:373
+#: inc/tgm-plugin-activation/tgm-config.php:162
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "次の推奨プラグインは現在、停止中です: %1$s"
+
+#: dist/lightning-pro/inc/tgm-plugin-activation/class-tgm-plugin-activation.php:378
+#: dist/lightning-pro/inc/tgm-plugin-activation/tgm-config.php:167
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:378
+#: inc/tgm-plugin-activation/tgm-config.php:167
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugins."
+msgstr[0] "%1$s プラグインを有効化するための適切な権限がありません。"
+
+#: dist/lightning-pro/inc/tgm-plugin-activation/class-tgm-plugin-activation.php:383
+#: dist/lightning-pro/inc/tgm-plugin-activation/tgm-config.php:172
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:383
+#: inc/tgm-plugin-activation/tgm-config.php:172
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "プラグインのインストールを開始"
+
+#: dist/lightning-pro/inc/tgm-plugin-activation/class-tgm-plugin-activation.php:388
+#: dist/lightning-pro/inc/tgm-plugin-activation/tgm-config.php:177
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:388
+#: inc/tgm-plugin-activation/tgm-config.php:177
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "プラグインの更新を開始"
+
+#: dist/lightning-pro/inc/tgm-plugin-activation/class-tgm-plugin-activation.php:393
+#: dist/lightning-pro/inc/tgm-plugin-activation/tgm-config.php:182
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:393
+#: inc/tgm-plugin-activation/tgm-config.php:182
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "プラグインの有効化を開始"
+
+#: dist/lightning-pro/inc/tgm-plugin-activation/class-tgm-plugin-activation.php:397
+#: dist/lightning-pro/inc/tgm-plugin-activation/tgm-config.php:186
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:397
+#: inc/tgm-plugin-activation/tgm-config.php:186
+msgid "Return to Required Plugins Installer"
+msgstr "必須プラグインのインストール画面に戻る"
+
+#: dist/lightning-pro/inc/tgm-plugin-activation/class-tgm-plugin-activation.php:398
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:398
+msgid "Return to the dashboard"
+msgstr "ダッシュボードに戻る"
+
+#: dist/lightning-pro/inc/tgm-plugin-activation/class-tgm-plugin-activation.php:399
+#: dist/lightning-pro/inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3042
+#: dist/lightning-pro/inc/tgm-plugin-activation/tgm-config.php:187
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:399
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3042
+#: inc/tgm-plugin-activation/tgm-config.php:187
+msgid "Plugin activated successfully."
+msgstr "プラグインを有効化しました。"
+
+#: dist/lightning-pro/inc/tgm-plugin-activation/class-tgm-plugin-activation.php:400
+#: dist/lightning-pro/inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2845
+#: dist/lightning-pro/inc/tgm-plugin-activation/tgm-config.php:188
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:400
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2845
+#: inc/tgm-plugin-activation/tgm-config.php:188
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "次のプラグインを有効化しました:"
+
+#: dist/lightning-pro/inc/tgm-plugin-activation/class-tgm-plugin-activation.php:401
+#: dist/lightning-pro/inc/tgm-plugin-activation/tgm-config.php:189
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:401
+#: inc/tgm-plugin-activation/tgm-config.php:189
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "操作を実行しませんでした。プラグイン %1$s はすでに有効化されています。"
+
+#: dist/lightning-pro/inc/tgm-plugin-activation/class-tgm-plugin-activation.php:402
+#: dist/lightning-pro/inc/tgm-plugin-activation/tgm-config.php:190
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:402
+#: inc/tgm-plugin-activation/tgm-config.php:190
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+"プラグインを有効化できませんでした。このテーマはプラグイン %s の現在のバー"
+"ジョンをサポートしていません。プラグインを更新してください。"
+
+#: dist/lightning-pro/inc/tgm-plugin-activation/class-tgm-plugin-activation.php:403
+#: dist/lightning-pro/inc/tgm-plugin-activation/tgm-config.php:191
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:403
+#: inc/tgm-plugin-activation/tgm-config.php:191
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "すべてのプラグインを正常にインストールし、有効化しました。 %1$s"
+
+#: dist/lightning-pro/inc/tgm-plugin-activation/class-tgm-plugin-activation.php:404
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:404
+msgid "Dismiss this notice"
+msgstr "通知を無視"
+
+#: dist/lightning-pro/inc/tgm-plugin-activation/class-tgm-plugin-activation.php:405
+#: dist/lightning-pro/inc/tgm-plugin-activation/tgm-config.php:192
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:405
+#: inc/tgm-plugin-activation/tgm-config.php:192
+msgid "Please contact the administrator of this site for help."
+msgstr "ヘルプが必要な場合はこのサイトの管理者にお問い合わせください。"
+
+#: dist/lightning-pro/inc/tgm-plugin-activation/class-tgm-plugin-activation.php:520
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:520
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+"使用中のテーマとの互換性を保つため、このプラグインを更新する必要があります。"
+
+#: dist/lightning-pro/inc/tgm-plugin-activation/class-tgm-plugin-activation.php:521
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:521
+msgid "Update Required"
+msgstr "更新が必要"
+
+#: dist/lightning-pro/inc/tgm-plugin-activation/class-tgm-plugin-activation.php:635
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:635
+msgid "Set the parent_slug config variable instead."
+msgstr "代替として parent_slug 構成変数を設定してください。"
+
+#: dist/lightning-pro/inc/tgm-plugin-activation/class-tgm-plugin-activation.php:826
+#: dist/lightning-pro/inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3460
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:826
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3460
+msgid "Return to the Dashboard"
+msgstr "ダッシュボードに戻る"
+
+#: dist/lightning-pro/inc/tgm-plugin-activation/class-tgm-plugin-activation.php:934
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:934
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+"リモートプラグインパッケージには、指定されたスラッグのフォルダーがないため、"
+"名前を変更できませんでした。"
+
+#: dist/lightning-pro/inc/tgm-plugin-activation/class-tgm-plugin-activation.php:934
+#: dist/lightning-pro/inc/tgm-plugin-activation/class-tgm-plugin-activation.php:942
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:934
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:942
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+"プラグイン開発者に連絡し、WordPress のガイドラインに沿ったプラグインのパッ"
+"ケージ化を依頼してください。"
+
+#: dist/lightning-pro/inc/tgm-plugin-activation/class-tgm-plugin-activation.php:942
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:942
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+"リモートプラグインパッケージは複数のファイルで構成されていますが、ファイルは1"
+"つのフォルダ内にパッケージされていません。"
+
+#: dist/lightning-pro/inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1124
+#: dist/lightning-pro/inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2841
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1124
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2841
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "と"
+
+#: dist/lightning-pro/inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1894
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1894
+#, php-format
+msgctxt "%s = version number"
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: dist/lightning-pro/inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2183
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2183
+msgid "Recommended"
+msgstr "推奨"
+
+#: dist/lightning-pro/inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2199
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2199
+msgid "WordPress Repository"
+msgstr "WordPress 公式ディレクトリ"
+
+#: dist/lightning-pro/inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2202
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2202
+msgid "External Source"
+msgstr "外部ソース"
+
+#: dist/lightning-pro/inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2205
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2205
+msgid "Pre-Packaged"
+msgstr "プリパッケージ"
+
+#: dist/lightning-pro/inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2222
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2222
+msgid "Not Installed"
+msgstr "未インストール"
+
+#: dist/lightning-pro/inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2226
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2226
+msgid "Installed But Not Activated"
+msgstr "停止中"
+
+#: dist/lightning-pro/inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2228
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2228
+msgid "Active"
+msgstr "有効"
+
+#: dist/lightning-pro/inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2234
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2234
+msgid "Required Update not Available"
+msgstr "必要な更新が利用不可"
+
+#: dist/lightning-pro/inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2237
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2237
+msgid "Requires Update"
+msgstr "更新が必要"
+
+#: dist/lightning-pro/inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2240
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2240
+msgid "Update recommended"
+msgstr "更新を推奨"
+
+#: dist/lightning-pro/inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2248
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2248
+#, php-format
+msgctxt "%1$s = install status, %2$s = update status"
+msgid "%1$s, %2$s"
+msgstr "%1$s、%2$s"
+
+#: dist/lightning-pro/inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2293
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2293
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "すべて <span class=\"count\">(%s)</span>"
+
+#: dist/lightning-pro/inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2296
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2296
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "未インストール <span class=\"count\">(%s)</span>"
+
+#: dist/lightning-pro/inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2299
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2299
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "更新可能 <span class=\"count\">(%s)</span>"
+
+#: dist/lightning-pro/inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2302
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2302
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "停止中 <span class=\"count\">(%s)</span>"
+
+#: dist/lightning-pro/inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2384
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2384
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "不明"
+
+#: dist/lightning-pro/inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2392
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2392
+msgid "Installed version:"
+msgstr "インストール済みバージョン:"
+
+#: dist/lightning-pro/inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2400
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2400
+msgid "Minimum required version:"
+msgstr "最低要求バージョン:"
+
+#: dist/lightning-pro/inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2412
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2412
+msgid "Available version:"
+msgstr "利用可能なバージョン:"
+
+#: dist/lightning-pro/inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2435
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2435
+#, php-format
+msgid ""
+"No plugins to install, update or activate. <a href=\"%1$s\">Return to the "
+"Dashboard</a>"
+msgstr ""
+"インストール・更新・有効化するべきプラグインはありません。<a href=\"%1$s\">"
+"ダッシュボードに戻る</a>"
+
+#: dist/lightning-pro/inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2449
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2449
+msgid "Plugin"
+msgstr "プラグイン"
+
+#: dist/lightning-pro/inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2450
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2450
+msgid "Source"
+msgstr "取得元"
+
+#: dist/lightning-pro/inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2451
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2451
+msgid "Type"
+msgstr "種類"
+
+#: dist/lightning-pro/inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2455
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2455
+msgid "Version"
+msgstr "バージョン"
+
+#: dist/lightning-pro/inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2456
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2456
+msgid "Status"
+msgstr "状態"
+
+#: dist/lightning-pro/inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2504
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2504
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Install %2$s"
+msgstr "%2$sをインストール"
+
+#: dist/lightning-pro/inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2508
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2508
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Update %2$s"
+msgstr "%2$sを更新"
+
+#: dist/lightning-pro/inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2513
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2513
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Activate %2$s"
+msgstr "%2$sを有効化"
+
+#: dist/lightning-pro/inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2583
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2583
+msgid "Upgrade message from the plugin author:"
+msgstr "プラグイン作者からの更新メッセージ:"
+
+#: dist/lightning-pro/inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2616
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2616
+msgid "Install"
+msgstr "インストール"
+
+#: dist/lightning-pro/inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2622
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2622
+msgid "Update"
+msgstr "更新"
+
+#: dist/lightning-pro/inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2625
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2625
+msgid "Activate"
+msgstr "有効化"
+
+#: dist/lightning-pro/inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2656
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2656
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "インストールするプラグインが選択されていません。処理を中断しました。"
+
+#: dist/lightning-pro/inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2658
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2658
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "更新するプラグインが選択されていません。処理を中断しました。"
+
+#: dist/lightning-pro/inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2694
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2694
+msgid "No plugins are available to be installed at this time."
+msgstr "現在インストール可能なプラグインはありません。"
+
+#: dist/lightning-pro/inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2696
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2696
+msgid "No plugins are available to be updated at this time."
+msgstr "現在更新可能なプラグインはありません。"
+
+#: dist/lightning-pro/inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2801
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2801
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "有効化するプラグインが選択されていません。処理を中断しました。"
+
+#: dist/lightning-pro/inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2827
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2827
+msgid "No plugins are available to be activated at this time."
+msgstr "現在有効化可能なプラグインはありません。"
+
+#: dist/lightning-pro/inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3041
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3041
+msgid "Plugin activation failed."
+msgstr "プラグインの有効化に失敗しました。"
+
+#: dist/lightning-pro/inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3379
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3379
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "プラグインを更新中 %1$s (%2$d/%3$d)"
+
+#: dist/lightning-pro/inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3381
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3381
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "<strong>%2$s</strong>%1$s のインストール中にエラーが発生しました。"
+
+#: dist/lightning-pro/inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3382
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3382
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "%1$s のインストールに失敗しました。"
+
+#: dist/lightning-pro/inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3386
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3386
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"インストールと有効化を開始しました。環境によっては時間がかかる場合がありま"
+"す。しばらくお待ちください。"
+
+#: dist/lightning-pro/inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3387
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3387
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s を正常にインストールし、有効化しました。"
+
+#: dist/lightning-pro/inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3388
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3388
+msgid "All installations and activations have been completed."
+msgstr "すべてのインストールと有効化が完了しました。"
+
+#: dist/lightning-pro/inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3389
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3389
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "プラグインをインストール、有効化中 %1$s (%2$d/%3$d)"
+
+#: dist/lightning-pro/inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3392
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3392
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"更新プロセスを開始しました。環境によっては時間がかかる場合があります。しばら"
+"くお待ちください。"
+
+#: dist/lightning-pro/inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3393
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3393
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s を正常にインストールしました。"
+
+#: dist/lightning-pro/inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3394
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3394
+msgid "All installations have been completed."
+msgstr "すべてのインストールが完了しました。"
+
+#: dist/lightning-pro/inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3395
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3395
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "プラグインをインストール中 %1$s (%2$d/%3$d)"
+
+#: dist/lightning-pro/inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3400
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3400
+msgid "Show Details"
+msgstr "詳細を表示"
+
+#: dist/lightning-pro/inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3400
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3400
+msgid "Hide Details"
+msgstr "詳細を非表示"
+
+#: dist/lightning-pro/inc/tgm-plugin-activation/tgm-config.php:132
+#: inc/tgm-plugin-activation/tgm-config.php:132
+#, php-format
+msgid ""
+"This theme recommends the following plugin: %1$s.<br>Many additional "
+"functions are available for free."
+msgid_plural ""
+"This theme recommends the following plugins: %1$s.<br>Many additional "
+"functions are available for free."
+msgstr[0] ""
+"このテーマは次のプラグインを利用する事を推奨しています : %1$s.<br>この無料の"
+"プラグインによって様々な機能を追加する事が出来ます。"
+
+#: dist/lightning-pro/inc/vk-campaign-text/package/class-vk-campaign-text.php:113
+#: inc/vk-campaign-text/package/class-vk-campaign-text.php:113
+msgid "Campaign Text"
+msgstr "キャンペーンテキスト"
+
+#: dist/lightning-pro/inc/vk-campaign-text/package/class-vk-campaign-text.php:132
+#: inc/vk-campaign-text/package/class-vk-campaign-text.php:132
+msgid "Display Campaign Text"
+msgstr "キャンペーンテキストを表示する"
+
+#: dist/lightning-pro/inc/vk-campaign-text/package/class-vk-campaign-text.php:137
+#: inc/vk-campaign-text/package/class-vk-campaign-text.php:137
+msgid "Hide"
+msgstr "表示しない"
+
+#: dist/lightning-pro/inc/vk-campaign-text/package/class-vk-campaign-text.php:138
+#: inc/vk-campaign-text/package/class-vk-campaign-text.php:138
+msgid "Show in Front Page"
+msgstr "トップページで表示"
+
+#: dist/lightning-pro/inc/vk-campaign-text/package/class-vk-campaign-text.php:139
+#: inc/vk-campaign-text/package/class-vk-campaign-text.php:139
+msgid "Show in Full Page"
+msgstr "全てのページで表示"
+
+#: dist/lightning-pro/inc/vk-campaign-text/package/class-vk-campaign-text.php:162
+#: inc/vk-campaign-text/package/class-vk-campaign-text.php:162
+msgid "Display Position"
+msgstr "表示位置"
+
+#: dist/lightning-pro/inc/vk-campaign-text/package/class-vk-campaign-text.php:167
+#: inc/vk-campaign-text/package/class-vk-campaign-text.php:167
+msgid ""
+"* If you save and reload after making changes, the position of campaign text "
+"will change."
+msgstr ""
+"* 保存してページを再読み込みすると、キャンペーンテキストの表示位置が変更され"
+"ます。"
+
+#: dist/lightning-pro/inc/vk-campaign-text/package/class-vk-campaign-text.php:185
+#: inc/vk-campaign-text/package/class-vk-campaign-text.php:185
+msgid "Icon"
+msgstr "アイコン "
+
+#: dist/lightning-pro/inc/vk-campaign-text/package/class-vk-campaign-text.php:189
+#: dist/lightning-pro/inc/vk-mobile-fix-nav/package/class-vk-mobile-fix-nav.php:381
+#: inc/vk-campaign-text/package/class-vk-campaign-text.php:189
+#: inc/vk-mobile-fix-nav/package/class-vk-mobile-fix-nav.php:381
+msgid "To choose your favorite icon, and enter the class."
+msgstr "アイコンを選んでアイコンのclass名を入力してください。"
+
+#: dist/lightning-pro/inc/vk-campaign-text/package/class-vk-campaign-text.php:207
+#: inc/vk-campaign-text/package/class-vk-campaign-text.php:207
+msgctxt "campaign text"
+msgid "Text"
+msgstr "テキスト"
+
+#: dist/lightning-pro/inc/vk-campaign-text/package/class-vk-campaign-text.php:238
+#: inc/vk-campaign-text/package/class-vk-campaign-text.php:238
+msgid "Text Color"
+msgstr "文字色"
+
+#: dist/lightning-pro/inc/vk-campaign-text/package/class-vk-campaign-text.php:261
+#: inc/vk-campaign-text/package/class-vk-campaign-text.php:261
+msgid "Background Color"
+msgstr "背景色"
+
+#: dist/lightning-pro/inc/vk-campaign-text/package/class-vk-campaign-text.php:282
+#: inc/vk-campaign-text/package/class-vk-campaign-text.php:282
+msgid "Button Text"
+msgstr "ボタンの文字"
+
+#: dist/lightning-pro/inc/vk-campaign-text/package/class-vk-campaign-text.php:305
+#: inc/vk-campaign-text/package/class-vk-campaign-text.php:305
+msgid "Button Text Color"
+msgstr "ボタンの文字色"
+
+#: dist/lightning-pro/inc/vk-campaign-text/package/class-vk-campaign-text.php:328
+#: inc/vk-campaign-text/package/class-vk-campaign-text.php:328
+msgid "Button Background Color"
+msgstr "ボタン背景色"
+
+#: dist/lightning-pro/inc/vk-campaign-text/package/class-vk-campaign-text.php:351
+#: inc/vk-campaign-text/package/class-vk-campaign-text.php:351
+msgid "Button Text Hover Color"
+msgstr "ボタンホバー時の文字色"
+
+#: dist/lightning-pro/inc/vk-campaign-text/package/class-vk-campaign-text.php:374
+#: inc/vk-campaign-text/package/class-vk-campaign-text.php:374
+msgid "Button Background Hover Color"
+msgstr "ボタンホバー時の背景色"
+
+#: dist/lightning-pro/inc/vk-campaign-text/package/class-vk-campaign-text.php:395
+#: dist/lightning-pro/inc/vk-widget-pr-content/package/class-vk-widget-pr-content.php:605
+#: inc/vk-campaign-text/package/class-vk-campaign-text.php:395
+#: inc/vk-widget-pr-content/package/class-vk-widget-pr-content.php:605
+msgid "Link URL"
+msgstr "リンク URL"
+
+#: dist/lightning-pro/inc/vk-campaign-text/package/class-vk-campaign-text.php:416
+#: inc/vk-campaign-text/package/class-vk-campaign-text.php:416
+msgid "Open in New Tab"
+msgstr "リンク先を別ウィンドウで開く"
+
+#: dist/lightning-pro/inc/vk-campaign-text/vk-campaign-text-config.php:27
+#: inc/vk-campaign-text/vk-campaign-text-config.php:27
+msgid "Header After"
+msgstr "ヘッダーの下"
+
+#: dist/lightning-pro/inc/vk-campaign-text/vk-campaign-text-config.php:31
+#: inc/vk-campaign-text/vk-campaign-text-config.php:31
+msgid "Header Before"
+msgstr "ヘッダーの上"
+
+#: dist/lightning-pro/inc/vk-campaign-text/vk-campaign-text-config.php:35
+#: inc/vk-campaign-text/vk-campaign-text-config.php:35
+msgid "Slide and Page Header After"
+msgstr "スライドとページヘッダーの下"
+
+#: dist/lightning-pro/inc/vk-css-optimize/package/class-vk-css-optimize.php:39
+#: inc/vk-css-optimize/package/class-vk-css-optimize.php:39
+msgid "CSS Optimize ( Speed up ) Settings"
+msgstr "CSS最適化（高速化）設定"
+
+#: dist/lightning-pro/inc/vk-css-optimize/package/class-vk-css-optimize.php:58
+#: inc/vk-css-optimize/package/class-vk-css-optimize.php:58
+msgid "Tree shaking"
+msgstr "Tree shaking"
+
+#: dist/lightning-pro/inc/vk-css-optimize/package/class-vk-css-optimize.php:79
+#: inc/vk-css-optimize/package/class-vk-css-optimize.php:79
+msgid "Tree shaking activation settings"
+msgstr "Tree shaking 有効化設定"
+
+#: dist/lightning-pro/inc/vk-css-optimize/package/class-vk-css-optimize.php:83
+#: inc/vk-css-optimize/package/class-vk-css-optimize.php:83
+msgid "Output only the main CSS of the page inline"
+msgstr "主要なCSSのみインラインで出力します"
+
+#: dist/lightning-pro/inc/vk-css-optimize/package/class-vk-css-optimize.php:85
+#: dist/lightning-pro/inc/vk-css-optimize/package/class-vk-css-optimize.php:151
+#: dist/lightning-pro/inc/vk-footer-customize/package/class-widget-area-setting.php:86
+#: inc/vk-css-optimize/package/class-vk-css-optimize.php:85
+#: inc/vk-css-optimize/package/class-vk-css-optimize.php:151
+#: inc/vk-footer-customize/package/class-widget-area-setting.php:86
+msgid "Nothing to do"
+msgstr "何もしない"
+
+#: dist/lightning-pro/inc/vk-css-optimize/package/class-vk-css-optimize.php:86
+#: inc/vk-css-optimize/package/class-vk-css-optimize.php:86
+msgid "Active Tree shaking (Recomend)"
+msgstr "Tree shaking を有効化（推奨）"
+
+#: dist/lightning-pro/inc/vk-css-optimize/package/class-vk-css-optimize.php:103
+#: inc/vk-css-optimize/package/class-vk-css-optimize.php:103
+msgid "Exclude class of Tree shaking"
+msgstr "Tree shaking から除外するCSSのクラス"
+
+#: dist/lightning-pro/inc/vk-css-optimize/package/class-vk-css-optimize.php:107
+#: inc/vk-css-optimize/package/class-vk-css-optimize.php:107
+msgid ""
+"If you choose \"Active Tree shaking\" that delete the useless css.If you "
+"using active css class that please fill in class name. Ex) btn-active,slide-"
+"active,scrolled"
+msgstr ""
+"Tree shaking を有効にしている場合、使用していないCSSは削除されます。もし使用"
+"している動的クラスがある場合はクラス名を入力してください。 例）btn-active,"
+"slide-active,scrolled"
+
+#: dist/lightning-pro/inc/vk-css-optimize/package/class-vk-css-optimize.php:124
+#: inc/vk-css-optimize/package/class-vk-css-optimize.php:124
+msgid "Preload CSS"
+msgstr "Preload CSS"
+
+#: dist/lightning-pro/inc/vk-css-optimize/package/class-vk-css-optimize.php:145
+#: inc/vk-css-optimize/package/class-vk-css-optimize.php:145
+msgid "Preload CSS activation settings"
+msgstr "Preload CSS 有効化設定"
+
+#: dist/lightning-pro/inc/vk-css-optimize/package/class-vk-css-optimize.php:148
+#: inc/vk-css-optimize/package/class-vk-css-optimize.php:148
+msgid "Preload css except for critical css"
+msgstr "クリティカルなCSSを除いてCSSをプリロードします"
+
+#: dist/lightning-pro/inc/vk-css-optimize/package/class-vk-css-optimize.php:152
+#: inc/vk-css-optimize/package/class-vk-css-optimize.php:152
+msgid "Active Preload CSS (Recomend)"
+msgstr "Preload CSS を有効化（推奨）"
+
+#: dist/lightning-pro/inc/vk-css-optimize/package/class-vk-css-optimize.php:169
+#: inc/vk-css-optimize/package/class-vk-css-optimize.php:169
+msgid "Exclude class of Preload CSS"
+msgstr "プリロードから除外するCSSのハンドル名"
+
+#: dist/lightning-pro/inc/vk-css-optimize/package/class-vk-css-optimize.php:173
+#: inc/vk-css-optimize/package/class-vk-css-optimize.php:173
+msgid ""
+"If you choose \"Active Preload CSS\" that css load timing was changed.If you "
+"have any do not want to preload css file that please fill in handle(id) "
+"name. Ex) pluginname_a-style,pluginname_b-css"
+msgstr ""
+"「Preload CSS を有効化」を選択した場合、cssのロードタイミングが変更されます。"
+"cssファイルをプリロードしたくない場合は、ハンドル（id）名を入力してくださ"
+"い。 \n"
+"例）pluginname_a-style、pluginname_b-css"
+
+#: dist/lightning-pro/inc/vk-css-optimize/vk-css-optimize-admin.php:19
+msgid "Speed setting"
+msgstr "高速化設定"
+
+#: dist/lightning-pro/inc/vk-css-optimize/vk-css-optimize-admin.php:40
+msgid "Optimize CSS"
+msgstr "CSS最適化"
+
+#: dist/lightning-pro/inc/vk-css-optimize/vk-css-optimize-admin.php:45
+msgid "Nothing to do ( Full Bootstrap )"
+msgstr "何もしない ( 全てのBootstrapを読み込む )"
+
+#: dist/lightning-pro/inc/vk-css-optimize/vk-css-optimize-admin.php:46
+msgid "Load minimal Bootstrap ( only for BS4 )"
+msgstr "最小限のBootstrapのみ読み込み（BS4のみ）"
+
+#: dist/lightning-pro/inc/vk-css-optimize/vk-css-optimize-admin.php:47
+msgid "Optimize CSS ( Tree Shaking ) (Beta)"
+msgstr "CSS最適化 ( Tree Shaking )（Beta）"
+
+#: dist/lightning-pro/inc/vk-css-optimize/vk-css-optimize-admin.php:48
+msgid "Optimize All CSS ( Tree Shaking + Preload ) (Beta)"
+msgstr "全てのCSSを最適化 ( Tree Shaking + Preload ) (Beta)"
+
+#: dist/lightning-pro/inc/vk-css-optimize/vk-css-optimize-admin.php:65
+msgid "Exclude class of tree shaking"
+msgstr "Tree shaking から除外するCSSのクラス"
+
+#: dist/lightning-pro/inc/vk-css-optimize/vk-css-optimize-admin.php:69
+msgid ""
+"If you choose \"Optimize All CSS\" that delete the useless css.If you using "
+"active css class that please fill in class name. Ex) btn-active,slide-active,"
+"scrolled"
+msgstr ""
+"CSS最適化を選択している場合、使用していないCSSは削除されます。もし使用してい"
+"る動的クラスがある場合はクラス名を入力してください。 例）btn-active,slide-"
+"active,scrolled"
+
+#: dist/lightning-pro/inc/vk-font-selector/package/class-vk-font-selector.php:65
+#: inc/vk-font-selector/package/class-vk-font-selector.php:65
+msgid "Mincho"
+msgstr "明朝体"
+
+#: dist/lightning-pro/inc/vk-font-selector/package/class-vk-font-selector.php:69
+#: inc/vk-font-selector/package/class-vk-font-selector.php:69
+msgid "Hiragino Kaku Gothic"
+msgstr "ヒラギノ角ゴ"
+
+#: dist/lightning-pro/inc/vk-font-selector/package/class-vk-font-selector.php:73
+#: inc/vk-font-selector/package/class-vk-font-selector.php:73
+msgid "Yu Gothic"
+msgstr "游ゴシック"
+
+#: dist/lightning-pro/inc/vk-font-selector/package/class-vk-font-selector.php:77
+#: inc/vk-font-selector/package/class-vk-font-selector.php:77
+msgid "Meiryo"
+msgstr "メイリオ"
+
+#: dist/lightning-pro/inc/vk-font-selector/package/class-vk-font-selector.php:81
+#: inc/vk-font-selector/package/class-vk-font-selector.php:81
+msgid "San Francisco"
+msgstr "San Francisco"
+
+#: dist/lightning-pro/inc/vk-font-selector/package/class-vk-font-selector.php:429
+#: dist/lightning-pro/inc/vk-font-selector/vk-font-selector-config.php:23
+#: inc/vk-font-selector/package/class-vk-font-selector.php:429
+#: inc/vk-font-selector/vk-font-selector-config.php:23
+msgid "Header Logo"
+msgstr "ヘッダーロゴ"
+
+#: dist/lightning-pro/inc/vk-font-selector/package/class-vk-font-selector.php:433
+#: inc/vk-font-selector/package/class-vk-font-selector.php:433
+msgid "Global Menu"
+msgstr "グローバルメニュー"
+
+#: dist/lightning-pro/inc/vk-font-selector/package/class-vk-font-selector.php:441
+#: dist/lightning-pro/inc/vk-font-selector/package/class-vk-font-selector.php:455
+#: dist/lightning-pro/inc/vk-font-selector/vk-font-selector-config.php:39
+#: dist/lightning-pro/inc/vk-font-selector/vk-font-selector-config.php:65
+#: dist/lightning-pro/inc/vk-widget-pr-content/package/class-vk-widget-pr-content.php:592
+#: inc/vk-font-selector/package/class-vk-font-selector.php:441
+#: inc/vk-font-selector/package/class-vk-font-selector.php:455
+#: inc/vk-font-selector/vk-font-selector-config.php:39
+#: inc/vk-font-selector/vk-font-selector-config.php:65
+#: inc/vk-widget-pr-content/package/class-vk-widget-pr-content.php:592
+msgid "Text"
+msgstr "本文テキスト"
+
+#: dist/lightning-pro/inc/vk-font-selector/package/class-vk-font-selector.php:477
+#: inc/vk-font-selector/package/class-vk-font-selector.php:477
+msgid "Font Setting"
+msgstr "フォント設定"
+
+#: dist/lightning-pro/inc/vk-font-selector/package/class-vk-font-selector.php:484
+#: inc/vk-font-selector/package/class-vk-font-selector.php:484
+msgid ""
+"If you want to apply the same font on mobile devices, please select web font "
+"(Google Fonts)."
+msgstr ""
+"モバイル端末でも同じフォントを適用したい場合は、ウェブフォント（Google "
+"Fonts）を選択してください。"
+
+#: dist/lightning-pro/inc/vk-font-selector/package/class-vk-font-selector.php:485
+#: inc/vk-font-selector/package/class-vk-font-selector.php:485
+msgid ""
+"The web font (Google Fonts) loads the font data, so the display will be "
+"slightly late."
+msgstr ""
+"ウェブフォント（Google Fonts）はフォントデータを読み込むので若干表示が遅くな"
+"ります。"
+
+#: dist/lightning-pro/inc/vk-font-selector/package/class-vk-font-selector.php:534
+#: inc/vk-font-selector/package/class-vk-font-selector.php:534
+msgid ":"
+msgstr "："
+
+#: dist/lightning-pro/inc/vk-font-selector/vk-font-selector-config.php:27
+#: inc/vk-font-selector/vk-font-selector-config.php:27
+msgid "Global Menu / Mobile Menu"
+msgstr "グローバルメニュー / モバイルメニュー"
+
+#: dist/lightning-pro/inc/vk-font-selector/vk-font-selector-config.php:31
+#: inc/vk-font-selector/vk-font-selector-config.php:31
+msgid "Global Menu Description"
+msgstr "グローバルメニュー サブテキスト"
+
+#: dist/lightning-pro/inc/vk-footer-customize/package/class-widget-area-setting.php:39
+#: inc/vk-footer-customize/package/class-widget-area-setting.php:39
+msgid "Footer settings"
+msgstr "フッター設定"
+
+#: dist/lightning-pro/inc/vk-footer-customize/package/class-widget-area-setting.php:57
+#: inc/vk-footer-customize/package/class-widget-area-setting.php:57
+msgid "Footer Widget Setting"
+msgstr "フッターウィジェット設定"
+
+#: dist/lightning-pro/inc/vk-footer-customize/package/class-widget-area-setting.php:81
+#: inc/vk-footer-customize/package/class-widget-area-setting.php:81
+msgid "Footer Upper Widget Padding"
+msgstr "フッター上部ウィジェットの余白"
+
+#: dist/lightning-pro/inc/vk-footer-customize/package/class-widget-area-setting.php:87
+#: inc/vk-footer-customize/package/class-widget-area-setting.php:87
+msgid "Delete Padding"
+msgstr "余白を削除"
+
+#: dist/lightning-pro/inc/vk-footer-customize/package/class-widget-area-setting.php:115
+#: inc/vk-footer-customize/package/class-widget-area-setting.php:115
+msgid "Footer Widget Area Count"
+msgstr "フッターウィジェットエリア 数"
+
+#: dist/lightning-pro/inc/vk-footer-customize/package/class-widget-area-setting.php:122
+#: inc/vk-footer-customize/package/class-widget-area-setting.php:122
+msgid "3 column"
+msgstr "３カラム"
+
+#: dist/lightning-pro/inc/vk-footer-customize/package/class-widget-area-setting.php:123
+#: inc/vk-footer-customize/package/class-widget-area-setting.php:123
+msgid "4 column"
+msgstr "４カラム"
+
+#: dist/lightning-pro/inc/vk-footer-customize/package/class-widget-area-setting.php:124
+#: inc/vk-footer-customize/package/class-widget-area-setting.php:124
+msgid "6 column"
+msgstr "６カラム"
+
+#: dist/lightning-pro/inc/vk-footer-customize/package/class-widget-area-setting.php:126
+#: inc/vk-footer-customize/package/class-widget-area-setting.php:126
+msgid ""
+"* If you save and reload after making changes, the number of the widget area "
+"setting panels  will increase or decrease."
+msgstr ""
+"保存してページを再読み込みすると、ウィジェットの設定パネル数が増減します。"
+
+#: dist/lightning-pro/inc/vk-footer-style/package/class-vk-footer-style.php:65
+#: inc/vk-footer-style/package/class-vk-footer-style.php:65
+msgid "Footer Style Setting"
+msgstr "フッタースタイル設定"
+
+#: dist/lightning-pro/inc/vk-footer-style/package/class-vk-footer-style.php:91
+#: inc/vk-footer-style/package/class-vk-footer-style.php:91
+msgid "Footer Background Color"
+msgstr "フッター背景色"
+
+#: dist/lightning-pro/inc/vk-footer-style/package/class-vk-footer-style.php:115
+#: inc/vk-footer-style/package/class-vk-footer-style.php:115
+msgid "Footer Text Color"
+msgstr "フッター文字色"
+
+#: dist/lightning-pro/inc/vk-footer-style/package/class-vk-footer-style.php:139
+#: inc/vk-footer-style/package/class-vk-footer-style.php:139
+msgid "Footer Image"
+msgstr "フッター背景画像"
+
+#: dist/lightning-pro/inc/vk-footer-style/package/class-vk-footer-style.php:161
+#: inc/vk-footer-style/package/class-vk-footer-style.php:161
+msgid "Footer Image Repeat"
+msgstr "フッター背景画像繰り返し"
+
+#: dist/lightning-pro/inc/vk-footer-style/package/class-vk-footer-style.php:166
+#: inc/vk-footer-style/package/class-vk-footer-style.php:166
+msgid "No Repeat"
+msgstr "繰り返し無し"
+
+#: dist/lightning-pro/inc/vk-footer-style/package/class-vk-footer-style.php:167
+#: inc/vk-footer-style/package/class-vk-footer-style.php:167
+msgid "Repeat X"
+msgstr "横方向に繰り返し"
+
+#: dist/lightning-pro/inc/vk-footer-style/package/class-vk-footer-style.php:168
+#: inc/vk-footer-style/package/class-vk-footer-style.php:168
+msgid "Repeat Y"
+msgstr "縦方向に繰り返し"
+
+#: dist/lightning-pro/inc/vk-footer-style/package/class-vk-footer-style.php:169
+#: inc/vk-footer-style/package/class-vk-footer-style.php:169
+msgid "Repeat X and Y"
+msgstr "繰り返し"
+
+#: dist/lightning-pro/inc/vk-footer-style/package/class-vk-footer-style.php:189
+#: inc/vk-footer-style/package/class-vk-footer-style.php:189
+msgid "Footer Image Justify"
+msgstr "フッター背景画像の位置"
+
+#: dist/lightning-pro/inc/vk-footer-style/package/class-vk-footer-style.php:194
+#: inc/vk-footer-style/package/class-vk-footer-style.php:194
+msgid "Default"
+msgstr "標準"
+
+#: dist/lightning-pro/inc/vk-footer-style/package/class-vk-footer-style.php:195
+#: inc/vk-footer-style/package/class-vk-footer-style.php:195
+msgid "Cover"
+msgstr "カバー"
+
+#: dist/lightning-pro/inc/vk-footer-style/package/class-vk-footer-style.php:196
+#: inc/vk-footer-style/package/class-vk-footer-style.php:196
+msgid "Justify Bottpm"
+msgstr "下"
+
+#: dist/lightning-pro/inc/vk-footer-style/package/class-vk-footer-style.php:197
+#: inc/vk-footer-style/package/class-vk-footer-style.php:197
+msgid "Justify Left Bottom"
+msgstr "左下"
+
+#: dist/lightning-pro/inc/vk-footer-style/package/class-vk-footer-style.php:198
+#: inc/vk-footer-style/package/class-vk-footer-style.php:198
+msgid "Justify Right Bottom"
+msgstr "右下"
+
+#: dist/lightning-pro/inc/vk-google-tag-manager/package/class-vk-google-tag-manager.php:65
+#: inc/vk-google-tag-manager/package/class-vk-google-tag-manager.php:65
+msgid "Google Tag Manager"
+msgstr "Google タグマネージャー"
+
+#: dist/lightning-pro/inc/vk-google-tag-manager/package/class-vk-google-tag-manager.php:85
+#: dist/lightning-pro/inc/vk-google-tag-manager/package/class-vk-google-tag-manager.php:97
+#: inc/vk-google-tag-manager/package/class-vk-google-tag-manager.php:85
+#: inc/vk-google-tag-manager/package/class-vk-google-tag-manager.php:97
+msgid "Google tag manager ID :"
+msgstr "Google タグマネージャー ID :"
+
+#: dist/lightning-pro/inc/vk-google-tag-manager/package/class-vk-google-tag-manager.php:89
+#: dist/lightning-pro/inc/vk-google-tag-manager/package/class-vk-google-tag-manager.php:101
+#: inc/vk-google-tag-manager/package/class-vk-google-tag-manager.php:89
+#: inc/vk-google-tag-manager/package/class-vk-google-tag-manager.php:101
+msgid "Please enter the Google Tag Manager ID to use on this site."
+msgstr "このサイトで使うGoogleタグマネージャーIDを入力してください。"
+
+#: dist/lightning-pro/inc/vk-mobile-fix-nav/package/class-vk-mobile-fix-nav.php:73
+#: inc/vk-mobile-fix-nav/package/class-vk-mobile-fix-nav.php:73
+msgid "Widget area of mobile fix nav"
+msgstr "モバイル固定ナビ ウィジェットエリア"
+
+#: dist/lightning-pro/inc/vk-mobile-fix-nav/package/class-vk-mobile-fix-nav.php:169
+#: inc/vk-mobile-fix-nav/package/class-vk-mobile-fix-nav.php:169
+msgid "Mobile Fix Nav"
+msgstr "モバイル固定ナビ"
+
+#: dist/lightning-pro/inc/vk-mobile-fix-nav/package/class-vk-mobile-fix-nav.php:189
+#: inc/vk-mobile-fix-nav/package/class-vk-mobile-fix-nav.php:189
+msgid "Do not display Mobile Fix Nav"
+msgstr "モバイル固定ナビを表示しない"
+
+#: dist/lightning-pro/inc/vk-mobile-fix-nav/package/class-vk-mobile-fix-nav.php:208
+#: inc/vk-mobile-fix-nav/package/class-vk-mobile-fix-nav.php:208
+msgid "Mobile Fix Nav Widget Area"
+msgstr "モバイル固定ナビ ウィジェットエリア"
+
+#: dist/lightning-pro/inc/vk-mobile-fix-nav/package/class-vk-mobile-fix-nav.php:232
+#: inc/vk-mobile-fix-nav/package/class-vk-mobile-fix-nav.php:232
+msgid "Add Widget Area Padding"
+msgstr "ウィジェットエリアに余白を追加する"
+
+#: dist/lightning-pro/inc/vk-mobile-fix-nav/package/class-vk-mobile-fix-nav.php:251
+#: inc/vk-mobile-fix-nav/package/class-vk-mobile-fix-nav.php:251
+msgid "Add menu open and close button"
+msgstr "メニュー開閉ボタンの追加"
+
+#: dist/lightning-pro/inc/vk-mobile-fix-nav/package/class-vk-mobile-fix-nav.php:275
+#: inc/vk-mobile-fix-nav/package/class-vk-mobile-fix-nav.php:275
+msgid "Add menu open and close button to first."
+msgstr "最初にメニューの開閉ボタンを追加する"
+
+#: dist/lightning-pro/inc/vk-mobile-fix-nav/package/class-vk-mobile-fix-nav.php:279
+#: inc/vk-mobile-fix-nav/package/class-vk-mobile-fix-nav.php:279
+msgid "* When using Font Awesome 5 SVG, the icon does not switch at menu open."
+msgstr ""
+"* Font Awesome 5 の SVG版を利用している場合はメニュー開閉時にアイコンが切り替"
+"わりません。"
+
+#: dist/lightning-pro/inc/vk-mobile-fix-nav/package/class-vk-mobile-fix-nav.php:301
+#: dist/lightning-pro/inc/vk-mobile-fix-nav/package/class-vk-mobile-fix-nav.php:350
+#: inc/vk-mobile-fix-nav/package/class-vk-mobile-fix-nav.php:301
+#: inc/vk-mobile-fix-nav/package/class-vk-mobile-fix-nav.php:350
+msgid "Link text:"
+msgstr "リンクテキスト:"
+
+#: dist/lightning-pro/inc/vk-mobile-fix-nav/package/class-vk-mobile-fix-nav.php:326
+#: inc/vk-mobile-fix-nav/package/class-vk-mobile-fix-nav.php:326
+msgid "Fix Navi button"
+msgstr "固定ナビボタン"
+
+#: dist/lightning-pro/inc/vk-mobile-fix-nav/package/class-vk-mobile-fix-nav.php:377
+#: inc/vk-mobile-fix-nav/package/class-vk-mobile-fix-nav.php:377
+msgid "Icon font class name:"
+msgstr "アイコンフォントのclass名:"
+
+#: dist/lightning-pro/inc/vk-mobile-fix-nav/package/class-vk-mobile-fix-nav.php:400
+#: inc/vk-mobile-fix-nav/package/class-vk-mobile-fix-nav.php:400
+msgid "Link URL:"
+msgstr "リンク URL:"
+
+#: dist/lightning-pro/inc/vk-mobile-fix-nav/package/class-vk-mobile-fix-nav.php:404
+#: dist/lightning-pro/inc/vk-mobile-fix-nav/package/class-vk-mobile-fix-nav.php:449
+#: dist/lightning-pro/inc/vk-widget-pr-content/package/class-vk-widget-pr-content.php:611
+#: dist/lightning-pro/inc/vk-widget-pr-content/package/class-vk-widget-pr-content.php:841
+#: dist/lightning-pro/inc/vk-widget-pr-content/package/class-vk-widget-pr-content.php:847
+#: dist/lightning-pro/inc/widgets/widget-full-wide-title.php:149
+#: dist/lightning-pro/inc/widgets/widget-full-wide-title.php:157
+#: inc/vk-mobile-fix-nav/package/class-vk-mobile-fix-nav.php:404
+#: inc/vk-mobile-fix-nav/package/class-vk-mobile-fix-nav.php:449
+#: inc/vk-widget-pr-content/package/class-vk-widget-pr-content.php:611
+#: inc/vk-widget-pr-content/package/class-vk-widget-pr-content.php:841
+#: inc/vk-widget-pr-content/package/class-vk-widget-pr-content.php:847
+#: inc/widgets/widget-full-wide-title.php:149
+#: inc/widgets/widget-full-wide-title.php:157
+msgid "Ex"
+msgstr "例"
+
+#: dist/lightning-pro/inc/vk-mobile-fix-nav/package/class-vk-mobile-fix-nav.php:423
+#: inc/vk-mobile-fix-nav/package/class-vk-mobile-fix-nav.php:423
+msgid "Open link new tab."
+msgstr "リンク先を別ウィンドウで開く"
+
+#: dist/lightning-pro/inc/vk-mobile-fix-nav/package/class-vk-mobile-fix-nav.php:445
+#: inc/vk-mobile-fix-nav/package/class-vk-mobile-fix-nav.php:445
+msgid "Click event:"
+msgstr "クリックイベント:"
+
+#: dist/lightning-pro/inc/vk-mobile-fix-nav/package/class-vk-mobile-fix-nav.php:467
+#: inc/vk-mobile-fix-nav/package/class-vk-mobile-fix-nav.php:467
+msgid "Navi Common Settings"
+msgstr "共通設定"
+
+#: dist/lightning-pro/inc/vk-mobile-fix-nav/package/class-vk-mobile-fix-nav.php:493
+#: inc/vk-mobile-fix-nav/package/class-vk-mobile-fix-nav.php:493
+msgid "Text Color:"
+msgstr "文字の色:"
+
+#: dist/lightning-pro/inc/vk-mobile-fix-nav/package/class-vk-mobile-fix-nav.php:517
+#: inc/vk-mobile-fix-nav/package/class-vk-mobile-fix-nav.php:517
+msgid "Background Color:"
+msgstr "背景色:"
+
+#: dist/lightning-pro/inc/vk-mobile-fix-nav/package/class-vk-mobile-fix-nav.php:541
+#: inc/vk-mobile-fix-nav/package/class-vk-mobile-fix-nav.php:541
+msgid "Current Color:"
+msgstr "Current Color:"
+
+#: dist/lightning-pro/inc/vk-mobile-nav/package/class-vk-mobile-nav.php:60
+#: inc/vk-mobile-nav/package/class-vk-mobile-nav.php:60
+msgid "Mobile Nav Upper"
+msgstr "モバイルナビ上部"
+
+#: dist/lightning-pro/inc/vk-mobile-nav/package/class-vk-mobile-nav.php:70
+#: inc/vk-mobile-nav/package/class-vk-mobile-nav.php:70
+msgid "Mobile Nav Bottom"
+msgstr "モバイルナビ下部"
+
+#: dist/lightning-pro/inc/vk-mobile-nav/package/class-vk-mobile-nav.php:98
+#: inc/vk-mobile-nav/package/class-vk-mobile-nav.php:98
+#, php-format
+msgid ""
+"This is the widget area.<br>You can set widget item from [ <a href=\"%s"
+"\">Appearance > Customize</a> ] Page -> \"Widgets\" panel -> \"Mobile Nav "
+"Upper\" Panel."
+msgstr ""
+"ここはウィジェットエリアです。<br>[ <a href=“%s”>外観 > カスタマイズ</a> ] "
+"ページ -> 「ウィジェット」 パネル -> 「モバイルナビ上部」 パネルから設定でき"
+"ます。"
+
+#: dist/lightning-pro/inc/vk-mobile-nav/package/class-vk-mobile-nav.php:99
+#: dist/lightning-pro/inc/vk-mobile-nav/package/class-vk-mobile-nav.php:133
+#: dist/lightning-pro/inc/vk-mobile-nav/package/class-vk-mobile-nav.php:144
+#: inc/vk-mobile-nav/package/class-vk-mobile-nav.php:99
+#: inc/vk-mobile-nav/package/class-vk-mobile-nav.php:133
+#: inc/vk-mobile-nav/package/class-vk-mobile-nav.php:144
+msgid "* This message is displayed only to users with editing authority."
+msgstr "* このメッセージは編集権限のあるユーザーにのみ表示されています。"
+
+#: dist/lightning-pro/inc/vk-mobile-nav/package/class-vk-mobile-nav.php:132
+#: inc/vk-mobile-nav/package/class-vk-mobile-nav.php:132
+#, php-format
+msgid ""
+"Menu is not set.<br>Please set menu from [ <a href=\"%s\">Appearance > "
+"Customize</a> ] Page -> \"Menus\" panel -> Menu Locations \"Mobile Navigation"
+"\"."
+msgstr ""
+"メニューが設定されていません。<br>[ <a href=“%s”>外観 > カスタマイズ</a> ] "
+"ページ ->「メニュー」 パネル -> メニューの位置「Mobile Navigation」より設定し"
+"てください。"
+
+#: dist/lightning-pro/inc/vk-mobile-nav/package/class-vk-mobile-nav.php:143
+#: inc/vk-mobile-nav/package/class-vk-mobile-nav.php:143
+#, php-format
+msgid ""
+"This is the widget area.<br>You can set widget item from [ <a href=\"%s"
+"\">Appearance > Customize</a> ] Page -> \"Widgets\" panel -> \"Mobile Nav "
+"Bottom\" Panel."
+msgstr ""
+"ここはウィジェットエリアです。<br>[ <a href=“%s”>外観 > カスタマイズ</a> ] "
+"ページ -> 「ウィジェット」 パネル -> 「モバイルナビ下部」 パネルから設定でき"
+"ます。"
+
+#: dist/lightning-pro/inc/vk-old-options-notice/package/class-vk-old-options-notice.php:94
+#: inc/vk-old-options-notice/package/class-vk-old-options-notice.php:94
+msgid "Because old option is exists, you need to update database"
+msgstr "古い設定項目があります。データベースを更新してください。"
+
+#: dist/lightning-pro/inc/vk-old-options-notice/package/class-vk-old-options-notice.php:94
+#: inc/vk-old-options-notice/package/class-vk-old-options-notice.php:94
+msgid "Update database"
+msgstr "データーベースを更新"
+
+#: dist/lightning-pro/inc/vk-page-header/package/class-vk-page-header.php:320
+#: inc/vk-page-header/package/class-vk-page-header.php:320
+msgid "Page Header Setting"
+msgstr "ページヘッダー設定"
+
+#: dist/lightning-pro/inc/vk-page-header/package/class-vk-page-header.php:364
+#: dist/lightning-pro/inc/vk-widget-pr-content/package/class-vk-widget-pr-content.php:824
+#: inc/vk-page-header/package/class-vk-page-header.php:364
+#: inc/vk-widget-pr-content/package/class-vk-widget-pr-content.php:824
+msgid "Cover color"
+msgstr "背景に被せる色"
+
+#: dist/lightning-pro/inc/vk-page-header/package/class-vk-page-header.php:385
+#: inc/vk-page-header/package/class-vk-page-header.php:385
+msgid "Cover opacity"
+msgstr "被せる色の濃さ"
+
+#: dist/lightning-pro/inc/vk-page-header/package/class-vk-page-header.php:392
+#: inc/vk-page-header/package/class-vk-page-header.php:392
+msgid "Please enter a number from 0 to 1"
+msgstr "0から1までの数値で入力してください"
+
+#: dist/lightning-pro/inc/vk-page-header/package/class-vk-page-header.php:475
+#: inc/vk-page-header/package/class-vk-page-header.php:475
+msgid "Text margin (top and bottom)"
+msgstr "テキスト余白 (上下)"
+
+#: dist/lightning-pro/inc/vk-page-header/package/class-vk-page-header.php:502
+#: dist/lightning-pro/inc/vk-page-header/package/class-vk-page-header.php:574
+#: dist/lightning-pro/inc/vk-page-header/package/class-vk-page-header.php:652
+#: dist/lightning-pro/inc/vk-page-header/package/class-vk-page-header.php:658
+#: inc/vk-page-header/package/class-vk-page-header.php:502
+#: inc/vk-page-header/package/class-vk-page-header.php:574
+#: inc/vk-page-header/package/class-vk-page-header.php:652
+#: inc/vk-page-header/package/class-vk-page-header.php:658
+msgid "Page header bg image"
+msgstr "ページヘッダー画像"
+
+#: dist/lightning-pro/inc/vk-page-header/package/class-vk-page-header.php:502
+#: inc/vk-page-header/package/class-vk-page-header.php:502
+msgid "Basic"
+msgstr "基本"
+
+#: dist/lightning-pro/inc/vk-page-header/package/class-vk-page-header.php:506
+#: inc/vk-page-header/package/class-vk-page-header.php:506
+msgid ""
+"You can set the original image in the background of the page header part."
+msgstr "ページヘッダー画像を設定できます。"
+
+#: dist/lightning-pro/inc/vk-page-header/package/class-vk-page-header.php:522
+#: dist/lightning-pro/inc/vk-page-header/package/class-vk-page-header.php:595
+#: inc/vk-page-header/package/class-vk-page-header.php:522
+#: inc/vk-page-header/package/class-vk-page-header.php:595
+msgid "PC"
+msgstr "PC"
+
+#: dist/lightning-pro/inc/vk-page-header/package/class-vk-page-header.php:541
+#: dist/lightning-pro/inc/vk-page-header/package/class-vk-page-header.php:613
+#: dist/lightning-pro/inc/vk-page-header/package/class-vk-page-header.php:658
+#: inc/vk-page-header/package/class-vk-page-header.php:541
+#: inc/vk-page-header/package/class-vk-page-header.php:613
+#: inc/vk-page-header/package/class-vk-page-header.php:658
+msgid "Mobile"
+msgstr "モバイル"
+
+#: dist/lightning-pro/inc/vk-page-header/package/class-vk-page-header.php:556
+#: inc/vk-page-header/package/class-vk-page-header.php:556
+msgid ""
+"If you want to change the image of a specific page, you can set it from the "
+"editing screen of each fixed page."
+msgstr ""
+"特定の固定ページの画像を変更したい場合は、各固定ページの編集画面から設定でき"
+"ます。"
+
+#: dist/lightning-pro/inc/vk-page-header/package/class-vk-page-header.php:560
+#: inc/vk-page-header/package/class-vk-page-header.php:560
+msgid "When not set, the image of [ Basic ] is applied."
+msgstr "未設定の場合は [ 基本 ] の画像が適用されます。"
+
+#: dist/lightning-pro/inc/vk-page-header/package/class-vk-page-header.php:630
+#: inc/vk-page-header/package/class-vk-page-header.php:630
+msgid "Page Header Image"
+msgstr "ページヘッダー画像"
+
+#: dist/lightning-pro/inc/vk-widget-pr-content/package/class-vk-widget-pr-content.php:19
+#: inc/vk-widget-pr-content/package/class-vk-widget-pr-content.php:19
+msgid "PR Content"
+msgstr "PR コンテンツ"
+
+#: dist/lightning-pro/inc/vk-widget-pr-content/package/class-vk-widget-pr-content.php:19
+#: inc/vk-widget-pr-content/package/class-vk-widget-pr-content.php:19
+msgid "( Not recommended )"
+msgstr "( 非推奨 )"
+
+#: dist/lightning-pro/inc/vk-widget-pr-content/package/class-vk-widget-pr-content.php:23
+#: inc/vk-widget-pr-content/package/class-vk-widget-pr-content.php:23
+msgid "This widget can be used when 1 column display is selected."
+msgstr "このウィジェットは１カラム用です。"
+
+#: dist/lightning-pro/inc/vk-widget-pr-content/package/class-vk-widget-pr-content.php:603
+#: inc/vk-widget-pr-content/package/class-vk-widget-pr-content.php:603
+msgid "Link button"
+msgstr "リンクボタン"
+
+#: dist/lightning-pro/inc/vk-widget-pr-content/package/class-vk-widget-pr-content.php:609
+#: inc/vk-widget-pr-content/package/class-vk-widget-pr-content.php:609
+msgid "Notation text"
+msgstr "ボタンの文字"
+
+#: dist/lightning-pro/inc/vk-widget-pr-content/package/class-vk-widget-pr-content.php:611
+#: inc/vk-widget-pr-content/package/class-vk-widget-pr-content.php:611
+msgid "Read more  ≫"
+msgstr "続きを読む  ≫"
+
+#: dist/lightning-pro/inc/vk-widget-pr-content/package/class-vk-widget-pr-content.php:623
+#: inc/vk-widget-pr-content/package/class-vk-widget-pr-content.php:623
+msgid "Open with new tab"
+msgstr "リンク先を別ウィンドウで開く"
+
+#: dist/lightning-pro/inc/vk-widget-pr-content/package/class-vk-widget-pr-content.php:627
+#: inc/vk-widget-pr-content/package/class-vk-widget-pr-content.php:627
+msgid "Select button type:"
+msgstr "ボタンタイプの選択:"
+
+#: dist/lightning-pro/inc/vk-widget-pr-content/package/class-vk-widget-pr-content.php:642
+#: inc/vk-widget-pr-content/package/class-vk-widget-pr-content.php:642
+msgid "Fill button"
+msgstr "塗りボタン"
+
+#: dist/lightning-pro/inc/vk-widget-pr-content/package/class-vk-widget-pr-content.php:648
+#: inc/vk-widget-pr-content/package/class-vk-widget-pr-content.php:648
+msgid "Ghost button"
+msgstr "ゴーストボタン"
+
+#: dist/lightning-pro/inc/vk-widget-pr-content/package/class-vk-widget-pr-content.php:654
+#: inc/vk-widget-pr-content/package/class-vk-widget-pr-content.php:654
+msgid "Button color"
+msgstr "ボタンの色"
+
+#: dist/lightning-pro/inc/vk-widget-pr-content/package/class-vk-widget-pr-content.php:654
+#: inc/vk-widget-pr-content/package/class-vk-widget-pr-content.php:654
+msgid ""
+"When you select the ghost button, the color of the text is reflected in the "
+"color of the button."
+msgstr "ゴーストボタンを選択した場合、文字色はボタンの色が反映されます。"
+
+#: dist/lightning-pro/inc/vk-widget-pr-content/package/class-vk-widget-pr-content.php:680
+#: dist/lightning-pro/inc/vk-widget-pr-content/package/class-vk-widget-pr-content.php:782
+#: dist/lightning-pro/inc/widgets/widget-full-wide-title.php:97
+#: inc/vk-widget-pr-content/package/class-vk-widget-pr-content.php:680
+#: inc/vk-widget-pr-content/package/class-vk-widget-pr-content.php:782
+#: inc/widgets/widget-full-wide-title.php:97
+msgid "Set image"
+msgstr "画像を設定"
+
+#: dist/lightning-pro/inc/vk-widget-pr-content/package/class-vk-widget-pr-content.php:681
+#: dist/lightning-pro/inc/vk-widget-pr-content/package/class-vk-widget-pr-content.php:783
+#: dist/lightning-pro/inc/widgets/widget-full-wide-title.php:98
+#: inc/vk-widget-pr-content/package/class-vk-widget-pr-content.php:681
+#: inc/vk-widget-pr-content/package/class-vk-widget-pr-content.php:783
+#: inc/widgets/widget-full-wide-title.php:98
+msgid "Delete image"
+msgstr "画像を削除"
+
+#: dist/lightning-pro/inc/vk-widget-pr-content/package/class-vk-widget-pr-content.php:688
+#: inc/vk-widget-pr-content/package/class-vk-widget-pr-content.php:688
+msgid "Media border color"
+msgstr "枠線の色"
+
+#: dist/lightning-pro/inc/vk-widget-pr-content/package/class-vk-widget-pr-content.php:727
+#: inc/vk-widget-pr-content/package/class-vk-widget-pr-content.php:727
+msgid "Select layout type:"
+msgstr "レイアウトの:"
+
+#: dist/lightning-pro/inc/vk-widget-pr-content/package/class-vk-widget-pr-content.php:742
+#: inc/vk-widget-pr-content/package/class-vk-widget-pr-content.php:742
+msgid "Put the image to the left"
+msgstr "画像を左に配置する"
+
+#: dist/lightning-pro/inc/vk-widget-pr-content/package/class-vk-widget-pr-content.php:748
+#: inc/vk-widget-pr-content/package/class-vk-widget-pr-content.php:748
+msgid "Put the image to the right"
+msgstr "画像を右に配置する"
+
+#: dist/lightning-pro/inc/vk-widget-pr-content/package/class-vk-widget-pr-content.php:759
+#: inc/vk-widget-pr-content/package/class-vk-widget-pr-content.php:759
+msgid "Background"
+msgstr "背景"
+
+#: dist/lightning-pro/inc/vk-widget-pr-content/package/class-vk-widget-pr-content.php:761
+#: inc/vk-widget-pr-content/package/class-vk-widget-pr-content.php:761
+msgid "Background color:"
+msgstr "背景色:"
+
+#: dist/lightning-pro/inc/vk-widget-pr-content/package/class-vk-widget-pr-content.php:775
+#: inc/vk-widget-pr-content/package/class-vk-widget-pr-content.php:775
+msgid "Background image"
+msgstr "背景画像"
+
+#: dist/lightning-pro/inc/vk-widget-pr-content/package/class-vk-widget-pr-content.php:776
+#: inc/vk-widget-pr-content/package/class-vk-widget-pr-content.php:776
+msgid ""
+"If both the background color and the background image are set, the "
+"background image is reflected."
+msgstr "背景色と背景画像が両方設定されている場合は画像が反映されます。"
+
+#: dist/lightning-pro/inc/vk-widget-pr-content/package/class-vk-widget-pr-content.php:829
+#: inc/vk-widget-pr-content/package/class-vk-widget-pr-content.php:829
+msgid "Depth of color to cover"
+msgstr "背景に被せる色の濃さ"
+
+#: dist/lightning-pro/inc/vk-widget-pr-content/package/class-vk-widget-pr-content.php:830
+#: inc/vk-widget-pr-content/package/class-vk-widget-pr-content.php:830
+msgid ""
+"To cancel the color overlay overlay on the image, enter \"0\" to this value."
+msgstr ""
+"画像に色を被せるオーバーレイを解除するには、この値に “0”を入力してください。"
+
+#: dist/lightning-pro/inc/vk-widget-pr-content/package/class-vk-widget-pr-content.php:835
+#: inc/vk-widget-pr-content/package/class-vk-widget-pr-content.php:835
+msgid "Layout"
+msgstr "レイアウト"
+
+#: dist/lightning-pro/inc/vk-widget-pr-content/package/class-vk-widget-pr-content.php:839
+#: inc/vk-widget-pr-content/package/class-vk-widget-pr-content.php:839
+msgid "Margin-top"
+msgstr "上部余白"
+
+#: dist/lightning-pro/inc/vk-widget-pr-content/package/class-vk-widget-pr-content.php:845
+#: inc/vk-widget-pr-content/package/class-vk-widget-pr-content.php:845
+msgid "Margin-bottom"
+msgstr "下部余白"
+
+#: dist/lightning-pro/inc/widgets/widget-full-wide-title.php:9
+#: inc/widgets/widget-full-wide-title.php:9
+msgid "Full Wide Title"
+msgstr "全幅見出し"
+
+#: dist/lightning-pro/inc/widgets/widget-full-wide-title.php:10
+#: inc/widgets/widget-full-wide-title.php:10
+msgid "This widget is used for single column only."
+msgstr "このウィジェットは１カラムでのみ対応しています。"
+
+#: dist/lightning-pro/inc/widgets/widget-full-wide-title.php:61
+#: inc/widgets/widget-full-wide-title.php:61
+msgid "Sub title:"
+msgstr "サブタイトル:"
+
+#: dist/lightning-pro/inc/widgets/widget-full-wide-title.php:67
+#: inc/widgets/widget-full-wide-title.php:67
+msgid "Text color of the title:"
+msgstr "見出しの文字色:"
+
+#: dist/lightning-pro/inc/widgets/widget-full-wide-title.php:73
+#: inc/widgets/widget-full-wide-title.php:73
+msgid "Text shadow"
+msgstr "文字の影"
+
+#: dist/lightning-pro/inc/widgets/widget-full-wide-title.php:77
+#: inc/widgets/widget-full-wide-title.php:77
+msgid "Text shadow color:"
+msgstr "文字の影の色:"
+
+#: dist/lightning-pro/inc/widgets/widget-full-wide-title.php:82
+#: inc/widgets/widget-full-wide-title.php:82
+msgid "Title background color:"
+msgstr "タイトル背景色:"
+
+#: dist/lightning-pro/inc/widgets/widget-full-wide-title.php:142
+#: inc/widgets/widget-full-wide-title.php:142
+msgid "Set to parallax"
+msgstr "パララックスにする"
+
+#: dist/lightning-pro/inc/widgets/widget-full-wide-title.php:145
+#: inc/widgets/widget-full-wide-title.php:145
+msgid "Margin Top"
+msgstr "余白上部"
+
+#: dist/lightning-pro/inc/widgets/widget-full-wide-title.php:153
+#: inc/widgets/widget-full-wide-title.php:153
+msgid "Margin Bottom"
+msgstr "余白下部"
+
+#: dist/lightning-pro/inc/widgets/widget-new-posts.php:17
+#: inc/widgets/widget-new-posts.php:17
+msgid "Displays a list of your most recent posts."
+msgstr "最近の投稿リストを表示します。"
+
+#: dist/lightning-pro/inc/widgets/widget-new-posts.php:168
+#: dist/lightning-pro/template-parts/post/content.php:43
+#: inc/widgets/widget-new-posts.php:168 template-parts/post/content.php:43
+msgid "<dl><dt>%s</dt><dd>%l</dd></dl>"
+msgstr "<dl><dt>%s</dt><dd>%l</dd></dl>"
+
+#: dist/lightning-pro/inc/widgets/widget-new-posts.php:190
+#: dist/lightning-pro/template-parts/post/content.php:62
+#: inc/widgets/widget-new-posts.php:190 template-parts/post/content.php:62
+msgid "Tags"
+msgstr "タグ"
+
+#: dist/lightning-pro/inc/widgets/widget-new-posts.php:246
+#: inc/widgets/widget-new-posts.php:246
+msgid "Thumbnail"
+msgstr "アイキャッチ画像"
+
+#: dist/lightning-pro/inc/widgets/widget-new-posts.php:246
+#: dist/lightning-pro/inc/widgets/widget-new-posts.php:253
+#: dist/lightning-pro/sidebar-post.php:57 inc/widgets/widget-new-posts.php:246
+#: inc/widgets/widget-new-posts.php:253 sidebar-post.php:57
+msgid "Category"
+msgstr "カテゴリー"
+
+#: dist/lightning-pro/inc/widgets/widget-new-posts.php:253
+#: inc/widgets/widget-new-posts.php:253
+msgid "Content"
+msgstr "本文"
+
+#: dist/lightning-pro/inc/widgets/widget-new-posts.php:268
+#: inc/widgets/widget-new-posts.php:268
+msgid "Slug for the custom type you want to display"
+msgstr "表示したいカスタム投稿タイプのスラッグ"
+
+#: dist/lightning-pro/inc/widgets/widget-new-posts.php:273
+#: inc/widgets/widget-new-posts.php:273
+msgid "taxonomy ID"
+msgstr "カスタム分類ID"
+
+#: dist/lightning-pro/inc/widgets/widget-new-posts.php:276
+#: inc/widgets/widget-new-posts.php:276
+msgid "if you need filtering by term, add the term ID separate by \",\"."
+msgstr ""
+"カスタム分類で絞り込みをしたい場合はカスタム分類IDを入力してください。複数の"
+"カスタム分類を指定したい場合は , で区切って下さい。"
+
+#: dist/lightning-pro/inc/widgets/widget-new-posts.php:278
+#: inc/widgets/widget-new-posts.php:278
+msgid "if empty this area, I will do not filtering."
+msgstr "未入力の場合はカスタム分類による絞り込みはされません。"
+
+#: dist/lightning-pro/inc/widgets/widget-new-posts.php:283
+#: inc/widgets/widget-new-posts.php:283
+msgid "Destination URL:"
+msgstr "リンク先URL:"
+
+#: dist/lightning-pro/inc/widgets/widget-new-posts.php:286
+#: inc/widgets/widget-new-posts.php:286
+msgid "Notation text:"
+msgstr "ボタンの文字:"
+
+#: dist/lightning-pro/inc/widgets/widget-new-posts.php:287
+#: inc/widgets/widget-new-posts.php:287
+msgid "Latest post list"
+msgstr "最近の投稿リスト"
+
+#: dist/lightning-pro/inc/woocommerce/customize.php:23
+msgid "Add border to item image on item list section"
+msgstr "アイテムリストセクションのアイテム画像にボーダーを追加する"
+
+#: dist/lightning-pro/plugin-support/woocommerce/customize.php:20
+#: plugin-support/woocommerce/customize.php:20
+msgid "Border Setting"
+msgstr "枠線設定"
+
+#: dist/lightning-pro/plugin-support/woocommerce/customize.php:23
+#: plugin-support/woocommerce/customize.php:23
+msgid "Add border to item image"
+msgstr "商品画像に枠線を追加"
+
+#: dist/lightning-pro/plugin-support/woocommerce/customize.php:42
+#: plugin-support/woocommerce/customize.php:42
+msgid "Item list section"
+msgstr "商品リスト"
+
+#: dist/lightning-pro/plugin-support/woocommerce/customize.php:61
+#: plugin-support/woocommerce/customize.php:61
+msgid "Single page"
+msgstr "詳細ページ"
+
+#: dist/lightning-pro/sidebar-post.php:26 sidebar-post.php:26
+msgid "Recent posts"
+msgstr "最近の投稿"
+
+#: dist/lightning-pro/sidebar-post.php:66 sidebar-post.php:66
+msgid "Archive"
+msgstr "アーカイブ"
+
+#: dist/lightning-pro/template-parts/breadcrumb.php:47
+#: dist/lightning-pro/template-parts/page-header.php:39
+#: dist/lightning-pro/template-parts/page-header.php:46
+#: template-parts/breadcrumb.php:47 template-parts/page-header.php:39
+#: template-parts/page-header.php:46
+#, php-format
+msgid "Search Results for : %s"
+msgstr "\"%s\" の検索結果"
+
+#: dist/lightning-pro/template-parts/breadcrumb.php:49
+#: dist/lightning-pro/template-parts/page-header.php:41
+#: template-parts/breadcrumb.php:49 template-parts/page-header.php:41
+msgid "Search Results"
+msgstr "検索結果"
+
+#: dist/lightning-pro/template-parts/breadcrumb.php:198
+#: dist/lightning-pro/template-parts/page-header.php:48
+#: template-parts/breadcrumb.php:198 template-parts/page-header.php:48
+msgid "Not found"
+msgstr "ページが見つかりません"
+
+#: dist/lightning-pro/template-parts/post/meta.php:12
+#: template-parts/post/meta.php:12
+msgid "Last updated"
+msgstr "最終更新日"
+
+#: dist/lightning-pro/template-parts/post/next-prev.php:38
+#: template-parts/post/next-prev.php:38
+msgid "Previous article"
+msgstr "前の記事"
+
+#: dist/lightning-pro/template-parts/post/next-prev.php:56
+#: template-parts/post/next-prev.php:56
+msgid "Next article"
+msgstr "次の記事"
+
+#: dist/lightning-pro/vendor/wp-phpunit/wp-phpunit/data/plugins/internationalized-plugin.php:11
+#: vendor/wp-phpunit/wp-phpunit/data/plugins/internationalized-plugin.php:11
+msgid "This is a dummy plugin"
+msgstr ""
+
+#: dist/lightning-pro/vendor/wp-phpunit/wp-phpunit/data/themedir1/internationalized-theme/functions.php:7
+#: vendor/wp-phpunit/wp-phpunit/data/themedir1/internationalized-theme/functions.php:7
+msgid "This is a dummy theme"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Lightning Pro"
+msgstr "Lightning Pro"
+
+#. Theme URI of the plugin/theme
+msgid "https://lightning.nagoya"
+msgstr "https://lightning.nagoya"
+
+#. Description of the plugin/theme
+msgid ""
+"Lightning Pro is a very simple & easy to customize theme which is based on "
+"the Bootstrap. It is also very friendly with custom post types and custom "
+"taxonomies. When you add a new one, the breadcrumbs will be adjusted and "
+"posts will look beautifully without editing or adding a template files."
+msgstr ""
+"Lightning ProはBootstrapをベースにした非常にシンプルでカスタマイズしやすい"
+"テーマです。また、カスタムポストタイプやカスタムタクソノミーとの相性も抜群で"
+"す。追加するとパンくずが調整され、テンプレートファイルを編集したり追加したり"
+"しなくても投稿が綺麗に見えるようになります。"
+
+#. Author of the plugin/theme
+msgid "Vektor,Inc."
+msgstr "Vektor,Inc."
+
+#. Author URI of the plugin/theme
+msgid "https://www.vektor-inc.co.jp"
+msgstr "http://www.vektor-inc.co.jp"
+
+#. Template Name of the plugin/theme
+msgid "Landing Page ( not recommended )"
+msgstr "Landing Page ( 非推奨 )"
+
+#. Template Name of the plugin/theme
+msgid "Landing Page for Page Builder ( not recommended )"
+msgstr "Landing Page for Page Builder ( 非推奨 )"
+
+#. Template Name of the plugin/theme
+msgid "No sidebar ( not recommended )"
+msgstr "サイドバーなし（非推奨）"
+
+#~ msgid "Don't display"
+#~ msgstr "表示しない"
+
+#~ msgid "Comment Setting"
+#~ msgstr "コメント設定"
+
+#~ msgid "Hide cooment template on post."
+#~ msgstr "投稿でコメントテンプレートを表示しない。"
+
+#~ msgid "Hide cooment template on page."
+#~ msgstr "固定ページでコメントテンプレートを表示しない。"
+
+#, php-format
+#~ msgid "Hide cooment template on %s."
+#~ msgstr "%sでコメントテンプレートを表示しない。"
+
+#~ msgid "Link text color ( visited )"
+#~ msgstr "リンク文字色（visited）"
+
+#~ msgid "Widget Area Setting"
+#~ msgstr "ウィジェットエリア設定"
+
+#~ msgid "If you enabled this checkbox that the CSS will shrink or preload."
+#~ msgstr ""
+#~ "このチェックボックスを有効にするとCSSの最適化を行い表示速度が向上します。"
+
+#, fuzzy
+#~| msgid "optional"
+#~ msgid "Positionals:"
+#~ msgstr "任意"
+
+#, fuzzy
+#~| msgid "Recommended"
+#~ msgid "command"
+#~ msgstr "推奨"
+
+#, fuzzy
+#~| msgid "default"
+#~ msgid "default:"
+#~ msgstr "標準"
+
+#~ msgid "required"
+#~ msgstr "必須"
+
+#, fuzzy
+#~| msgid "Plugin activation failed."
+#~ msgid "Implications failed:"
+#~ msgstr "プラグインの有効化に失敗しました。"
+
+#~ msgid "Contact button open in new tab"
+#~ msgstr "お問い合わせボタンを別ウィンドウで開く"
+
+#, fuzzy
+#~| msgid "Archive Page Setting"
+#~ msgid "Archive Page [post]"
+#~ msgstr "アーカイブページ設定"
+
+#, fuzzy
+#~| msgid "Single page"
+#~ msgid "Single Page [page]"
+#~ msgstr "投稿ページ"
+
+#, fuzzy
+#~| msgid "Single page"
+#~ msgid "Single Page [post]"
+#~ msgstr "投稿ページ"
+
+#~ msgctxt "customize-layout"
+#~ msgid "Page"
+#~ msgstr "固定ページ"
+
+#~ msgid "Main Text"
+#~ msgstr "メインテキスト"
+
+#~ msgid "Main Text Color"
+#~ msgstr "メインテキストカラー"
+
+#~ msgid "Main Background Color"
+#~ msgstr "背景色"
+
+#~ msgid "Button URL"
+#~ msgstr "ボタンのURL"
+
+#~ msgid "Header Transmission Settings"
+#~ msgstr "ヘッダー設定"
+
+#, fuzzy
+#~| msgid "Slide cover opacity"
+#~ msgid "Enable Header Opacity"
+#~ msgstr "スライドに被せる色の濃さ"
+
+#~ msgid "Page Header"
+#~ msgstr "ページヘッダー"
+
+#~ msgid "2 colmun"
+#~ msgstr "２列"
+
+#~ msgid "Home page sidebar setting"
+#~ msgstr "トップページサイドバー設定"
+
+#~ msgid "Don't show sidebar on home page"
+#~ msgstr "トップページを1カラムにする"
+
+#~ msgid ""
+#~ "* Even if there is no check here, if the page template specified on the "
+#~ "top page is \"without sidebar\", it will be 1 column."
+#~ msgstr ""
+#~ "* ここにチェックがなくても、トップページに指定した固定ページのテンプレート"
+#~ "が「サイドバーなし」を選択している場合は、1カラムになります。"
+
+#~ msgid ".siteContent .subSection-title"
+#~ msgstr "サイドバー見出し"
+
+#~ msgid "Sidebar menu hide list children"
+#~ msgstr "サイドバーに子ページのリストを表示しない"
+
+#~ msgid "Your settings were saved."
+#~ msgstr "設定を保存しました。"
+
+#~ msgid "You can change layout of post type archive pages."
+#~ msgstr "各投稿タイプのアーカイブページもレイアウトを変更する事ができます。"
+
+#~ msgid "Author Archive"
+#~ msgstr "投稿者アーカイブ"
+
+#~ msgid "Save Changes"
+#~ msgstr "変更を保存"
+
+#~ msgid "Gothic"
+#~ msgstr "ゴシック体"
+
+#~ msgid "各投稿タイプのアーカイブページもレイアウトを変更する事ができます。"
+#~ msgstr "各投稿タイプのアーカイブページもレイアウトを変更する事ができます。"
+
+#~ msgid "Lightning Front Page PR Block"
+#~ msgstr "Lightning トップページ PR Block"
+
+#~ msgid "Landing Page"
+#~ msgstr "ランディングページ"
+
+#~ msgid "No sidebar"
+#~ msgstr "サイドバーなし"

@@ -1,0 +1,18 @@
+/* Bootstrap Adjuster */
+
+.media {
+	.card-img-overlay {
+		margin: 1px;
+	}
+}
+
+.card-noborder {
+	.vk_post_imgOuter {
+		border-radius: 0.25rem;
+	}
+}
+.card-imageRound {
+	.vk_post_imgOuter {
+		border-radius: 50%;
+	}
+}

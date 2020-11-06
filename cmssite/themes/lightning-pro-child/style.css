@@ -1,0 +1,96 @@
+@charset "utf-8";
+/*
+Theme Name: Lightning Pro Child
+Theme URI:
+Template: lightning-pro
+Description:リモデラー合同会社
+Author:塚田　圭一
+Tags:
+Version: 1.0.0
+*/
+
+/* Contact Form7 */
+ 
+.contact7 {
+	max-width: 100%;
+	box-sizing: border-box;
+}
+.contact7 dd {
+	margin: 0 0 30px 0;
+	background-color:
+}
+.contact7 dt {
+	font-weight: normal;
+}
+ 
+/* 必須マーク */
+.contact7 .must {
+	background: #FF1A00;
+}
+ 
+/* 任意マーク */
+.contact7 .optional {
+	background: #999;
+}
+ 
+.contact7 .must,
+.contact7 .optional {
+	color: #FFF;
+	border-radius: 3px;
+	font-size: 10px;
+	margin-left: 10px;
+	padding: 5px 10px;
+	letter-spacing: 2px;
+}
+.btn_contact7 {
+	text-align: center;
+}
+.btn_contact7 input {
+	width: 70%;
+	background-color: #005513;
+	color: #FFF;
+	font-size: 1.1em;
+	font-weight: bold;
+	letter-spacing: 0.2em;
+	border: 1px solid #005513;
+	-webkit-transition: 0.3s;
+	-moz-transition: 0.3s;
+	-o-transition: 0.3s;
+	-ms-transition: 0.3s;
+	transition: 0.3s;	
+}
+.btn_contact7 input:hover {
+	background-color: #FFF;
+	color: #005513; 
+}
+@media screen and (min-width: 768px) {
+.contact7 dt {
+	float: left;
+	clear: left;
+	width: 35%;
+	padding: 5px 10px 5px 0;
+	}
+.contact7 dd {
+	margin-left: 35%;
+	}
+ 
+.btn_contact7 input {
+	width: 70%;
+	background-color: #005513;
+	color: #FFF;
+	font-size: 1.1em;
+	font-weight: bold;
+	letter-spacing: 0.2em;
+	border: 1px solid #005513;
+	-webkit-transition: 0.3s;
+	-moz-transition: 0.3s;
+	-o-transition: 0.3s;
+	-ms-transition: 0.3s;
+	transition: 0.3s;	
+}
+.btn_contact7 input:hover {
+	background-color: #FFF;
+	color: #005513; 
+}
+}
+ 

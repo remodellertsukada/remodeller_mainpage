@@ -1,0 +1,16 @@
+@import "../../inc/header-top/package/_scss/header-top.scss";
+@import "../../inc/vk-mobile-fix-nav/package/_scss/vk-mobile-fix-nav.scss";
+@import "../../inc/vk-widget-pr-content/package/_scss/vk-widget-pr-content.scss";
+@import "../../inc/vk-campaign-text/package/_scss/_vk-campaign-text.scss";
+
+@media (max-width: 991px) {
+	.mobile-fix-nav_enable .page_top_btn {
+		bottom: calc(62px + 10px);
+		right: 10px;
+	}
+}
+@media (min-width: 992px) {
+	.mobile-fix-nav {
+		display: none;
+	}
+}
