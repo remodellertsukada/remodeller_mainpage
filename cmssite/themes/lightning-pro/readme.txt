@@ -2,7 +2,7 @@
 Lightning WordPress theme, Copyright (C) 2015-2020 Vektor,Inc.
 Lightning WordPress theme is licensed under the GPL.
 Tested up to: 5.5.3
-Stable tag: 8.0.0
+Stable tag: 8.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -38,6 +38,9 @@ https://www.vektor-inc.co.jp/inquiry/
 
 
 == Changelog ==
+
+V8.0.1
+* [ Bugfix ] Sorting by Nested Page is did not affect.
 
 V8.0.0
 * [ Add function ][ Page Header ] Add mobile image and cover color and opacity
@@ -85,7 +88,7 @@ v7.7.0
 * [ Design bug fix ][ ExUnit Child page list widget ] fix hide bug at unactive child page
 
 v7.6.1
-* [ Design Bug fix ] Page-link Block Add css 
+* [ Design Bug fix ] Page-link Block Add css
 
 v7.6.0
 * [ Specification Change / Bug fix ][ WooCommerce ] cope with shop page layout
